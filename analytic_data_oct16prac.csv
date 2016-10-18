@@ -1,0 +1,2801 @@
+gender,education,age,agreeableness,neuroticism,extraversion
+Males,NA,16,4.0,2.8,3.8
+Females,NA,18,4.2,3.8,5.0
+Females,NA,17,3.8,3.6,4.2
+Females,NA,17,4.6,2.8,3.6
+Males,NA,17,4.0,3.2,4.8
+Females,some college,21,4.6,3.0,5.6
+Males,NA,18,4.6,1.4,4.2
+Males,Finished HS,19,2.6,4.2,2.4
+Males,HS,19,3.6,3.6,3.25
+Females,NA,17,5.4,4.2,4.8
+Males,HS,21,4.6,3.0,4.2
+Males,NA,16,5.0,3.5,4.2
+Females,NA,16,4.4,1.8,3.4
+Males,NA,16,4.8,1.2,5.0
+Males,HS,17,2.6,2.6,4.2
+Males,NA,17,4.2,4.6,5.6
+Females,NA,17,4.4,4.2,5.2
+Males,NA,17,4.2,4.8,5.2
+Females,NA,16,3.8,4.6,5.0
+Females,NA,17,4.6,3.4,5.4
+Males,NA,17,2.2,2.0,4.4
+Females,NA,17,4.8,4.4,4.4
+Males,graduate degree,68,5.6,2.0,4.0
+Females,Finished HS,27,5.4,4.8,5.2
+Males,HS,18,4.8,2.0,5.0
+Females,some college,20,5.0,1.8,6.0
+Females,graduate degree,51,4.0,3.2,4.0
+Females,NA,14,5.6,3.6,5.8
+Females,some college,33,3.8,2.8,5.2
+Females,some college,18,4.8,3.4,5.4
+Females,NA,17,5.2,5.4,3.2
+Females,some college,41,5.6,2.4,5.0
+Males,graduate degree,23,5.2,2.6,1.2
+Females,NA,17,5.0,2.4,4.2
+Males,some college,20,3.8,1.75,3.6
+Males,some college,23,3.2,3.8,3.0
+Males,some college,20,5.2,2.2,1.8
+Males,some college,21,3.8,5.0,3.6
+Males,NA,30,6.0,1.0,5.0
+Females,graduate degree,48,4.6,1.4,4.6
+Females,some college,40,5.4,2.6,3.8
+Females,college graduate,27,3.8,1.5,2.8
+Males,HS,18,4.8,2.2,3.8
+Males,college graduate,20,4.0,3.2,3.0
+Females,graduate degree,24,5.8,2.2,4.8
+Males,some college,25,6.0,3.6,4.0
+Males,Finished HS,22,3.4,3.8,3.4
+Females,HS,18,5.0,3.0,3.6
+Females,HS,43,3.8,4.6,3.4
+Males,some college,20,6.0,2.2,6.0
+Females,some college,24,5.6,4.8,4.6
+Females,college graduate,26,5.2,2.8,3.8
+Males,college graduate,26,4.4,1.4,5.4
+Females,some college,25,4.0,5.4,3.2
+Males,college graduate,25,6.0,2.4,5.4
+Males,graduate degree,26,4.6,3.6,4.2
+Females,some college,21,3.2,4.4,3.2
+Males,graduate degree,24,3.8,4.0,3.6
+Females,Finished HS,50,5.0,3.8,2.8
+Males,graduate degree,29,4.2,1.8,5.0
+Males,HS,32,4.2,4.2,3.2
+Males,HS,18,4.2,4.6,2.8
+Females,college graduate,32,5.6,3.0,5.8
+Females,some college,26,4.0,3.0,5.8
+Females,graduate degree,27,5.8,4.6,3.6
+Females,some college,19,4.75,1.0,2.6
+Males,college graduate,21,4.4,3.6,2.4
+Males,some college,21,2.4,2.2,3.4
+Females,graduate degree,36,4.6,2.2,4.6
+Females,Finished HS,48,5.4,2.4,2.8
+Females,some college,22,4.8,2.4,4.4
+Females,Finished HS,23,4.4,1.8,5.0
+Males,some college,21,3.8,4.4,4.8
+Females,some college,20,5.0,3.0,3.2
+Females,some college,23,4.6,2.0,4.6
+Females,college graduate,43,5.2,2.4,5.4
+Females,NA,16,5.8,2.0,5.8
+Females,NA,14,5.0,4.2,5.6
+Females,some college,54,3.2,2.8,3.6
+Males,Finished HS,20,5.0,3.2,3.8
+Males,college graduate,28,5.0,3.2,3.6
+Females,college graduate,38,3.8,5.0,2.8
+Males,NA,38,4.8,4.4,3.4
+Males,some college,27,5.8,2.4,4.8
+Females,HS,18,5.0,4.6,3.8
+Males,some college,29,4.4,2.8,3.4
+Females,college graduate,50,5.2,2.4,3.8
+Females,some college,50,5.4,2.0,4.8
+Females,some college,20,5.2,2.2,5.0
+Females,some college,19,4.4,3.4,3.4
+Females,college graduate,56,5.2,1.6,4.8
+Females,college graduate,29,4.8,3.4,3.6
+Females,graduate degree,29,4.6,4.2,3.6
+Females,graduate degree,48,5.4,3.6,5.4
+Females,HS,30,5.0,4.0,3.8
+Females,Finished HS,21,3.6,5.0,2.2
+Males,some college,19,2.2,4.0,1.0
+Males,graduate degree,42,5.2,1.2,3.6
+Females,some college,18,3.8,5.4,3.0
+Females,college graduate,50,4.0,1.4,3.2
+Females,some college,24,4.6,4.75,4.0
+Males,graduate degree,25,3.6,3.2,4.2
+Males,graduate degree,47,4.4,4.6,3.6
+Females,HS,18,4.6,2.0,2.4
+Females,college graduate,37,3.6,4.8,1.4
+Females,college graduate,33,5.8,4.0,4.0
+Females,graduate degree,40,4.6,4.25,3.6
+Males,NA,18,1.2,4.4,4.4
+Females,some college,21,5.4,4.6,4.8
+Females,some college,27,5.0,5.6,4.8
+Females,some college,19,6.0,2.8,4.4
+Females,college graduate,36,4.75,2.0,3.0
+Females,some college,19,5.4,1.4,4.2
+Females,graduate degree,29,6.0,4.4,3.2
+Females,graduate degree,23,5.2,2.0,5.8
+Males,graduate degree,23,2.0,2.8,1.8
+Males,some college,20,4.4,2.0,4.8
+Males,college graduate,24,1.8,2.8,1.6
+Males,graduate degree,24,4.2,3.2,5.0
+Males,graduate degree,26,5.8,2.2,5.6
+Females,some college,25,5.0,3.0,5.6
+Males,college graduate,24,4.4,4.0,2.0
+Males,graduate degree,24,3.6,3.4,5.4
+Males,graduate degree,28,4.4,3.0,5.0
+Males,college graduate,22,4.8,2.2,3.4
+Males,graduate degree,26,4.4,3.4,2.2
+Males,graduate degree,25,5.4,2.8,4.8
+Males,college graduate,23,4.6,2.8,4.6
+Males,some college,22,4.0,3.2,2.6
+Females,some college,19,3.75,4.6,4.2
+Females,college graduate,25,4.2,4.2,4.4
+Males,some college,25,4.4,5.0,4.4
+Males,graduate degree,27,3.0,3.4,2.5
+Females,some college,20,3.6,4.6,3.4
+Females,some college,25,6.0,5.4,4.0
+Females,some college,49,5.8,3.8,4.0
+Females,some college,26,5.6,2.75,6.0
+Females,some college,25,5.6,3.0,5.0
+Females,some college,25,5.6,4.4,5.2
+Males,NA,18,5.2,3.6,6.0
+Males,some college,21,2.6,4.4,1.4
+Females,some college,22,4.8,5.2,5.2
+Females,some college,37,3.8,4.2,5.0
+Females,some college,20,5.8,1.8,4.4
+Females,HS,22,4.2,2.4,4.4
+Females,graduate degree,41,4.0,2.0,2.8
+Females,graduate degree,22,5.4,4.6,5.0
+Males,graduate degree,24,4.8,3.2,4.0
+Females,college graduate,23,4.2,1.0,5.2
+Males,college graduate,32,5.4,3.4,3.8
+Males,graduate degree,43,4.4,4.0,3.6
+Females,college graduate,30,5.8,1.8,5.2
+Females,Finished HS,50,5.2,2.2,4.2
+Males,HS,18,3.0,2.4,5.6
+Females,some college,16,4.8,2.0,3.8
+Females,graduate degree,34,5.0,3.6,5.0
+Females,Finished HS,18,5.8,2.2,5.4
+Females,graduate degree,24,4.8,4.0,3.4
+Males,Finished HS,18,3.4,2.4,3.4
+Females,some college,22,4.6,4.2,3.8
+Females,Finished HS,36,5.4,2.5,4.0
+Females,some college,19,5.0,3.2,4.6
+Males,some college,20,4.8,3.0,4.4
+Males,some college,24,4.0,1.8,3.0
+Females,some college,20,6.0,3.0,5.0
+Males,graduate degree,34,4.8,1.4,4.6
+Males,some college,21,5.0,1.4,5.8
+Males,some college,19,4.8,3.0,4.25
+Females,Finished HS,18,5.2,4.0,4.8
+Females,NA,25,4.4,5.8,1.8
+Females,graduate degree,27,3.8,3.4,3.8
+Males,graduate degree,33,4.4,3.8,5.0
+Males,some college,20,5.2,3.2,5.0
+Females,some college,19,5.0,2.4,4.2
+Females,NA,16,5.6,2.0,5.4
+Females,some college,18,3.4,5.0,3.0
+Females,college graduate,35,5.8,2.0,3.8
+Females,some college,23,4.6,4.2,3.0
+Females,graduate degree,27,3.4,3.6,3.8
+Males,some college,18,3.0,1.6,4.8
+Males,Finished HS,31,3.2,4.6,3.0
+Females,NA,17,5.8,1.8,4.4
+Males,HS,53,4.2,2.4,2.8
+Males,graduate degree,29,2.6,4.4,2.8
+Males,Finished HS,19,3.6,4.2,3.2
+Females,HS,29,5.2,5.2,4.4
+Males,graduate degree,41,5.0,1.4,4.6
+Females,graduate degree,31,3.4,1.4,5.4
+Females,some college,45,4.6,4.8,3.0
+Females,Finished HS,47,5.0,4.4,5.6
+Males,college graduate,27,4.0,2.4,3.6
+Females,Finished HS,24,5.0,4.4,4.4
+Males,college graduate,20,4.0,3.0,3.4
+Males,Finished HS,23,3.6,2.4,4.6
+Males,graduate degree,28,4.6,3.8,3.4
+Females,NA,16,5.2,5.0,2.0
+Males,HS,18,4.8,2.8,5.6
+Females,NA,16,5.0,2.8,3.2
+Males,NA,17,5.2,1.2,5.4
+Females,HS,18,5.2,2.2,4.6
+Males,NA,16,5.0,2.4,4.2
+Females,NA,16,3.4,4.4,2.6
+Females,HS,18,4.4,3.6,4.2
+Males,NA,17,5.0,1.2,5.2
+Males,NA,17,5.4,2.0,4.4
+Males,NA,16,4.6,2.6,3.8
+Females,HS,18,5.0,3.4,3.2
+Females,graduate degree,50,5.5,1.0,3.0
+Females,college graduate,25,5.4,3.2,5.4
+Males,graduate degree,48,3.0,2.0,3.8
+Females,college graduate,27,5.0,1.8,5.0
+Females,some college,22,5.8,4.5,4.6
+Males,some college,20,3.8,1.8,3.6
+Females,NA,17,3.4,5.4,2.4
+Females,graduate degree,59,5.6,1.6,4.5
+Females,HS,17,3.6,3.0,3.2
+Females,some college,32,6.0,2.8,5.8
+Males,some college,22,4.0,3.8,5.2
+Males,some college,21,4.0,2.6,4.8
+Males,graduate degree,29,2.2,3.0,2.8
+Males,HS,18,4.8,3.6,4.4
+Females,some college,40,5.5,2.0,2.8
+Females,graduate degree,48,5.6,1.2,5.4
+Females,college graduate,39,5.4,2.4,4.6
+Females,college graduate,50,5.6,3.0,5.2
+Females,graduate degree,26,5.6,4.0,4.0
+Females,Finished HS,21,4.2,3.2,3.4
+Males,college graduate,55,3.8,2.8,3.4
+Females,graduate degree,37,5.4,1.8,4.8
+Females,graduate degree,38,5.4,2.0,4.8
+Males,some college,19,4.2,2.0,4.4
+Females,NA,17,4.6,2.6,3.0
+Females,some college,20,3.8,2.4,4.8
+Females,graduate degree,34,4.0,2.6,2.6
+Females,some college,38,5.4,2.0,5.4
+Females,some college,18,4.4,4.4,4.4
+Females,graduate degree,32,5.25,3.0,4.0
+Males,some college,19,5.8,3.0,4.4
+Males,some college,19,4.2,1.8,2.8
+Males,some college,21,5.2,3.0,5.0
+Females,some college,22,5.5,3.0,5.4
+Males,some college,19,4.4,1.0,2.6
+Females,graduate degree,41,4.6,1.8,4.8
+Males,some college,40,5.6,1.4,4.6
+Females,graduate degree,44,3.4,3.2,4.4
+Males,some college,25,4.8,3.0,4.0
+Females,NA,15,1.6,4.2,3.0
+Males,some college,24,3.6,2.2,4.0
+Females,some college,23,2.8,2.0,4.4
+Females,HS,22,4.6,2.4,5.0
+Females,some college,19,5.2,1.8,4.0
+Females,some college,23,4.6,3.2,3.2
+Females,some college,38,2.6,1.0,5.8
+Males,Finished HS,26,5.2,1.4,5.0
+Females,some college,46,4.8,2.0,5.0
+Females,Finished HS,24,4.0,2.6,3.6
+Females,HS,18,4.8,2.2,5.2
+Males,Finished HS,48,5.6,3.2,3.4
+Females,some college,30,5.8,3.8,4.8
+Males,Finished HS,22,4.4,2.8,4.0
+Males,some college,20,3.6,4.4,3.6
+Males,graduate degree,36,3.4,3.8,3.8
+Males,HS,18,5.0,3.6,6.0
+Males,some college,27,5.4,2.8,4.8
+Females,Finished HS,30,4.0,1.2,5.8
+Males,some college,18,4.6,1.6,4.6
+Males,some college,20,4.8,4.0,3.6
+Females,some college,55,5.2,1.8,4.6
+Females,some college,17,5.6,3.4,4.0
+Males,college graduate,28,3.8,3.4,3.8
+Females,some college,19,4.6,5.2,4.8
+Females,some college,19,4.8,2.75,5.6
+Females,NA,16,6.0,1.8,6.0
+Males,HS,31,5.8,3.6,5.2
+Females,some college,50,4.4,4.6,5.8
+Females,some college,31,5.4,3.0,4.8
+Females,graduate degree,27,5.6,1.8,5.4
+Males,some college,16,4.2,4.2,2.6
+Males,some college,18,5.2,4.4,5.2
+Females,some college,20,5.0,4.6,3.8
+Males,some college,21,4.2,3.8,3.0
+Females,graduate degree,32,5.8,2.8,5.4
+Females,some college,30,3.2,2.6,3.0
+Females,some college,24,4.8,4.2,4.2
+Females,HS,35,4.8,5.4,3.6
+Females,some college,19,5.4,3.6,5.2
+Females,some college,23,5.0,5.6,3.2
+Females,NA,16,3.8,3.2,3.6
+Males,college graduate,21,6.0,2.2,6.0
+Females,some college,22,5.8,4.0,4.2
+Females,some college,20,5.4,3.4,3.6
+Males,college graduate,26,5.0,1.0,4.8
+Males,some college,19,4.6,3.4,3.0
+Females,graduate degree,25,5.0,4.0,5.6
+Females,graduate degree,28,5.4,5.4,5.6
+Females,NA,17,5.2,3.0,5.4
+Females,NA,16,4.8,2.6,5.2
+Males,NA,17,3.8,3.0,3.8
+Males,HS,29,5.0,2.2,2.8
+Females,Finished HS,19,3.8,3.4,3.4
+Females,college graduate,47,5.4,3.8,4.6
+Females,college graduate,52,5.0,1.4,3.4
+Females,college graduate,22,5.4,2.4,2.4
+Males,some college,18,4.8,3.4,4.8
+Females,some college,30,4.2,3.8,4.8
+Females,NA,17,4.4,4.0,3.8
+Males,some college,31,2.4,4.0,2.8
+Males,Finished HS,56,5.6,4.0,3.8
+Females,college graduate,28,4.0,2.4,5.2
+Females,college graduate,33,5.6,3.4,5.8
+Females,some college,30,5.4,2.2,4.0
+Females,some college,23,5.2,3.6,3.8
+Females,some college,20,5.2,1.2,4.6
+Females,Finished HS,27,6.0,2.2,5.8
+Males,Finished HS,25,4.2,4.8,5.4
+Females,Finished HS,27,4.2,5.2,3.8
+Females,NA,56,5.0,3.0,4.6
+Females,some college,18,3.4,5.8,3.2
+Males,HS,18,3.4,2.4,4.6
+Males,some college,21,5.8,2.0,4.8
+Males,Finished HS,19,3.4,4.2,3.8
+Females,Finished HS,18,5.8,1.8,5.6
+Males,college graduate,29,2.6,5.2,2.8
+Males,college graduate,33,3.8,4.0,3.4
+Males,some college,31,4.0,3.8,2.8
+Females,graduate degree,33,5.6,2.6,5.0
+Females,graduate degree,28,4.25,2.8,2.8
+Females,some college,21,4.6,3.8,2.0
+Females,college graduate,45,5.2,5.8,6.0
+Females,graduate degree,44,4.0,3.0,3.4
+Females,some college,18,5.6,4.6,3.6
+Females,graduate degree,27,5.4,2.0,4.8
+Females,college graduate,45,3.0,5.4,3.6
+Females,Finished HS,18,5.6,2.6,5.0
+Females,some college,24,5.6,5.25,2.2
+Females,Finished HS,48,3.8,5.6,3.4
+Females,some college,29,4.8,5.0,5.6
+Females,HS,51,6.0,2.0,5.2
+Females,Finished HS,50,5.0,4.2,2.8
+Females,Finished HS,36,4.0,4.0,3.0
+Females,NA,18,4.0,3.4,3.4
+Females,college graduate,52,5.2,4.25,5.0
+Females,graduate degree,38,4.4,3.8,2.8
+Females,some college,17,5.6,2.4,5.8
+Females,graduate degree,53,4.8,2.6,5.6
+Females,graduate degree,35,5.2,4.2,4.8
+Females,some college,21,5.0,4.2,2.8
+Males,some college,29,4.6,5.4,3.8
+Females,graduate degree,36,5.2,3.4,5.2
+Females,some college,19,4.2,4.0,4.0
+Females,some college,23,4.6,4.2,4.0
+Females,Finished HS,39,5.2,3.8,4.6
+Females,some college,19,3.6,3.2,4.4
+Females,NA,17,4.8,3.6,3.8
+Females,some college,18,4.6,2.4,5.4
+Females,some college,25,5.4,4.0,3.75
+Females,NA,15,4.0,2.6,3.6
+Males,some college,20,5.0,3.6,2.2
+Females,NA,14,5.4,3.6,3.2
+Females,some college,20,4.8,2.8,5.2
+Males,HS,25,5.2,4.8,4.6
+Females,graduate degree,64,4.8,4.6,5.6
+Females,Finished HS,18,5.0,2.2,4.8
+Females,some college,20,5.4,3.4,4.2
+Females,HS,19,4.2,4.0,3.4
+Females,graduate degree,32,5.2,2.8,4.2
+Males,Finished HS,49,4.0,3.0,4.0
+Males,Finished HS,45,5.2,3.8,6.0
+Males,HS,18,4.2,4.2,1.6
+Females,graduate degree,28,5.0,6.0,5.6
+Females,graduate degree,22,4.0,3.2,2.6
+Females,college graduate,25,4.0,3.4,3.6
+Females,graduate degree,34,6.0,1.0,6.0
+Females,graduate degree,42,4.6,3.6,3.4
+Females,some college,37,4.6,2.8,4.6
+Females,some college,42,5.8,1.0,5.4
+Females,graduate degree,23,5.2,2.4,4.0
+Females,college graduate,29,3.6,3.6,5.2
+Males,Finished HS,18,3.0,1.6,1.6
+Females,some college,22,5.4,1.0,5.2
+Females,some college,30,5.2,4.0,5.6
+Females,some college,38,4.0,4.0,4.2
+Females,Finished HS,53,5.0,3.6,4.8
+Males,some college,28,4.75,2.4,3.0
+Males,some college,18,5.0,3.0,4.4
+Females,college graduate,31,5.8,2.6,4.8
+Females,HS,32,5.0,1.4,3.8
+Females,graduate degree,40,4.0,4.0,4.25
+Females,NA,15,5.6,4.4,4.2
+Females,Finished HS,23,4.0,2.2,4.4
+Females,college graduate,34,4.6,3.8,4.0
+Males,graduate degree,29,5.8,4.2,4.8
+Females,some college,51,5.0,2.4,3.2
+Females,some college,22,6.0,2.8,5.4
+Females,some college,38,5.0,2.0,4.4
+Females,graduate degree,26,4.2,2.6,5.8
+Females,Finished HS,36,3.5,2.4,4.2
+Females,some college,19,4.4,2.6,4.0
+Females,some college,33,5.0,4.6,4.4
+Females,HS,40,5.4,4.4,5.0
+Females,graduate degree,26,4.2,2.2,3.6
+Females,NA,12,5.0,3.6,3.8
+Females,some college,30,4.4,2.6,5.0
+Females,HS,59,5.4,1.25,4.2
+Females,some college,32,4.4,4.2,4.4
+Males,Finished HS,30,3.2,4.4,3.0
+Females,college graduate,32,5.4,2.4,5.2
+Females,graduate degree,29,5.2,4.8,4.8
+Males,some college,27,4.2,3.0,3.8
+Females,some college,48,3.6,2.6,1.8
+Females,college graduate,39,5.6,1.0,4.6
+Females,some college,22,5.2,4.6,4.0
+Females,some college,26,4.6,5.6,3.6
+Females,some college,26,3.0,3.6,2.0
+Females,Finished HS,39,4.6,3.2,4.6
+Females,some college,32,5.2,3.8,4.6
+Females,some college,52,5.8,3.8,2.4
+Females,some college,40,5.0,4.6,4.2
+Females,Finished HS,40,5.4,2.6,5.6
+Females,some college,40,6.0,1.6,3.6
+Females,some college,40,5.6,5.8,4.4
+Females,Finished HS,24,5.2,3.0,5.6
+Females,some college,23,5.8,4.4,3.2
+Females,some college,26,4.5,3.0,4.4
+Females,some college,26,4.5,2.8,4.4
+Females,Finished HS,51,5.8,1.4,5.8
+Females,HS,39,6.0,2.25,5.4
+Females,some college,20,6.0,1.6,5.8
+Females,HS,19,5.4,5.0,5.2
+Males,graduate degree,28,3.6,3.8,3.0
+Males,HS,35,4.4,3.4,4.2
+Males,HS,35,4.4,2.8,4.2
+Males,HS,35,4.4,2.8,4.2
+Males,HS,35,4.4,3.2,4.2
+Males,HS,35,5.0,3.2,4.0
+Males,HS,35,5.0,3.2,4.4
+Males,HS,35,5.0,3.2,4.4
+Females,college graduate,32,4.6,1.8,4.4
+Females,some college,24,4.6,4.6,4.6
+Females,HS,23,5.6,1.8,4.8
+Males,some college,39,4.2,5.4,4.0
+Males,college graduate,48,5.2,2.2,2.6
+Females,HS,26,4.6,5.8,3.2
+Males,some college,28,4.2,3.6,3.8
+Females,HS,23,5.8,2.0,4.8
+Males,some college,24,5.2,1.8,3.6
+Females,some college,29,5.4,2.0,4.6
+Females,NA,19,2.2,6.0,4.2
+Males,some college,29,1.6,1.0,1.2
+Females,some college,26,5.8,2.4,5.2
+Females,NA,15,3.2,4.6,1.8
+Females,some college,37,4.4,2.6,5.0
+Males,some college,30,5.4,2.8,5.6
+Females,some college,36,4.8,3.2,5.0
+Females,some college,33,5.6,3.8,5.6
+Males,some college,23,5.0,1.6,4.0
+Females,Finished HS,22,6.0,2.4,6.0
+Females,some college,17,5.0,3.8,5.0
+Males,Finished HS,28,2.6,2.6,1.4
+Females,some college,36,3.4,4.6,4.4
+Females,some college,29,4.8,2.0,4.2
+Females,graduate degree,59,5.0,5.0,3.0
+Females,some college,19,5.6,1.6,4.8
+Males,some college,27,5.4,5.0,5.2
+Females,college graduate,41,4.4,3.0,4.0
+Females,college graduate,27,5.4,1.2,4.8
+Females,Finished HS,24,5.25,2.4,6.0
+Females,graduate degree,60,4.8,4.6,5.2
+Females,some college,52,5.6,4.2,1.8
+Females,some college,21,5.8,3.2,5.75
+Females,some college,20,5.0,4.2,4.0
+Females,some college,25,5.8,1.0,4.8
+Females,some college,24,5.8,3.8,4.0
+Females,Finished HS,25,3.2,3.6,3.6
+Females,Finished HS,30,3.8,2.8,3.4
+Females,some college,19,2.0,3.8,2.6
+Males,some college,17,4.6,2.0,4.8
+Females,some college,52,5.8,2.6,3.6
+Females,some college,27,5.0,4.6,5.2
+Females,some college,55,6.0,4.2,6.0
+Females,graduate degree,39,5.2,4.4,5.6
+Females,some college,39,6.0,2.8,5.4
+Females,some college,39,4.0,2.6,2.0
+Males,some college,18,4.2,3.8,4.0
+Females,some college,51,5.0,1.4,5.6
+Females,some college,25,5.8,2.4,3.0
+Females,HS,15,5.2,1.8,4.6
+Females,Finished HS,42,4.8,4.2,4.0
+Females,college graduate,24,5.2,4.8,4.8
+Females,some college,46,5.4,2.4,3.2
+Females,some college,37,5.4,3.2,5.0
+Females,some college,24,4.8,2.8,3.6
+Males,some college,20,4.8,3.4,3.8
+Females,college graduate,50,4.6,3.0,5.6
+Females,some college,46,4.8,3.0,3.2
+Males,Finished HS,23,4.2,4.4,5.2
+Females,some college,18,4.6,2.4,4.8
+Males,Finished HS,21,4.4,2.6,4.6
+Females,some college,26,4.2,5.6,5.2
+Females,some college,53,5.6,4.4,4.4
+Females,Finished HS,26,5.6,1.2,5.2
+Males,some college,30,6.0,1.4,5.0
+Males,Finished HS,51,4.4,4.0,5.2
+Females,some college,34,5.0,3.6,4.2
+Females,some college,28,4.2,3.2,4.6
+Females,Finished HS,42,5.0,3.6,4.8
+Males,some college,21,5.6,3.4,4.4
+Females,some college,20,6.0,5.2,5.2
+Males,HS,26,5.2,3.6,4.4
+Females,some college,18,5.6,3.0,4.4
+Females,some college,39,5.0,3.2,4.6
+Females,some college,45,4.0,1.0,5.4
+Females,some college,20,4.8,4.4,5.8
+Males,some college,43,4.4,1.6,4.8
+Females,some college,23,4.6,2.8,2.6
+Females,some college,25,5.0,3.6,4.6
+Females,some college,51,5.4,4.4,4.2
+Females,some college,26,5.0,4.6,3.8
+Males,some college,28,6.0,1.2,5.8
+Females,some college,23,5.0,3.0,5.4
+Females,some college,34,5.2,3.8,4.2
+Males,some college,23,4.8,1.8,4.0
+Females,some college,29,5.0,1.8,4.25
+Females,some college,35,5.6,4.4,5.6
+Females,some college,40,4.4,4.6,3.5
+Females,Finished HS,27,5.0,5.0,6.0
+Males,college graduate,45,4.8,3.0,4.6
+Males,Finished HS,60,5.6,1.2,5.8
+Females,some college,27,5.0,3.6,3.4
+Males,some college,20,4.2,2.5,4.2
+Females,some college,21,5.2,3.6,3.6
+Females,some college,25,4.4,4.8,5.0
+Females,Finished HS,51,5.4,6.0,4.2
+Females,some college,27,5.2,2.6,4.2
+Males,some college,24,4.2,5.0,1.6
+Females,HS,21,5.6,2.0,5.2
+Females,Finished HS,55,4.0,3.0,2.4
+Males,Finished HS,30,3.2,4.6,4.0
+Males,some college,31,3.2,4.0,3.5
+Females,Finished HS,22,4.8,4.4,4.4
+Females,some college,28,4.6,2.4,3.6
+Females,some college,24,3.8,4.6,4.6
+Females,some college,31,5.8,4.6,3.8
+Females,some college,43,5.4,3.0,4.4
+Males,some college,60,4.8,2.4,4.4
+Males,some college,36,4.4,3.6,2.6
+Females,college graduate,40,4.0,3.5,4.2
+Males,some college,21,4.4,1.8,5.6
+Females,college graduate,21,5.2,1.8,5.4
+Females,HS,19,4.4,4.8,4.4
+Females,some college,36,5.0,1.0,3.4
+Males,college graduate,42,3.2,5.2,2.8
+Males,Finished HS,24,4.4,2.6,5.0
+Females,some college,44,6.0,1.8,5.6
+Females,some college,30,5.4,4.4,4.0
+Females,some college,23,5.4,3.0,5.4
+Females,Finished HS,26,3.8,4.8,4.6
+Males,some college,32,5.8,2.2,5.6
+Males,some college,29,4.8,2.6,3.8
+Females,some college,47,5.8,2.6,5.0
+Males,some college,44,4.8,1.6,4.2
+Males,some college,25,4.4,5.0,3.8
+Females,some college,28,5.2,3.6,5.0
+Females,college graduate,32,5.8,3.4,5.2
+Females,some college,37,4.2,2.8,3.4
+Females,some college,39,6.0,4.2,5.4
+Males,Finished HS,40,5.6,1.6,5.0
+Females,college graduate,26,5.6,3.2,5.4
+Males,some college,27,4.0,3.0,4.0
+Females,some college,41,4.2,3.8,3.8
+Females,some college,34,5.2,4.2,2.6
+Females,some college,23,6.0,1.2,6.0
+Males,some college,31,5.0,4.8,5.6
+Females,some college,38,5.0,2.8,3.0
+Females,some college,44,5.4,2.2,3.8
+Females,some college,31,4.4,3.0,5.8
+Males,graduate degree,33,5.6,4.2,4.6
+Females,some college,28,3.0,4.6,2.4
+Males,some college,46,5.4,1.0,5.6
+Females,some college,36,5.0,6.0,4.4
+Females,some college,28,5.0,3.2,3.6
+Females,some college,28,5.6,2.0,3.8
+Females,some college,42,5.4,1.6,5.2
+Females,some college,32,5.2,2.4,4.8
+Females,some college,19,3.2,3.6,3.0
+Females,some college,25,5.0,4.0,4.8
+Females,graduate degree,37,4.8,4.0,4.2
+Females,some college,29,5.6,3.2,5.4
+Females,some college,32,3.2,5.8,4.4
+Males,some college,27,5.4,2.0,5.6
+Females,some college,27,4.8,2.6,3.6
+Males,some college,39,5.0,5.0,4.4
+Males,NA,45,5.0,3.4,4.8
+Females,some college,38,4.4,3.8,5.0
+Females,HS,22,5.4,2.2,4.8
+Females,HS,23,5.4,4.0,4.4
+Females,some college,25,4.2,2.0,3.8
+Females,some college,35,6.0,1.8,5.8
+Females,some college,33,5.4,2.2,4.4
+Females,Finished HS,28,5.0,2.0,5.8
+Females,some college,43,6.0,2.0,3.8
+Males,HS,30,5.4,1.2,5.2
+Females,some college,27,4.4,4.0,3.6
+Females,some college,19,5.2,2.2,5.6
+Females,Finished HS,23,5.2,2.8,5.4
+Females,some college,31,5.8,2.8,5.6
+Females,HS,22,3.6,4.2,3.8
+Males,some college,40,5.4,1.8,4.0
+Females,some college,40,5.6,4.0,2.6
+Females,some college,55,6.0,4.0,4.2
+Females,some college,55,6.0,4.0,4.2
+Females,some college,54,6.0,1.2,6.0
+Females,HS,53,4.8,3.8,3.0
+Males,some college,20,5.8,3.2,3.8
+Males,some college,52,5.4,1.8,4.0
+Females,some college,25,6.0,1.4,4.0
+Males,some college,46,5.6,4.0,4.0
+Males,some college,19,4.0,2.8,3.6
+Males,some college,38,4.0,3.6666666666666665,5.2
+Females,some college,27,4.4,4.2,4.2
+Females,some college,27,5.2,4.0,4.2
+Males,some college,34,5.2,2.4,4.4
+Females,some college,21,5.0,3.8,3.6
+Females,Finished HS,29,5.2,2.0,6.0
+Females,some college,27,4.8,3.8,4.0
+Females,Finished HS,41,4.0,5.4,3.0
+Females,some college,52,4.2,1.0,5.0
+Females,some college,30,3.8,5.8,2.0
+Females,Finished HS,50,5.0,2.4,4.6
+Females,some college,43,3.8,3.8,3.8
+Females,graduate degree,32,5.6,2.4,5.0
+Males,some college,19,2.6,5.6,3.8
+Females,college graduate,22,5.8,4.4,3.6
+Females,some college,21,5.0,2.2,4.2
+Males,graduate degree,50,3.2,4.2,2.4
+Females,college graduate,27,5.6,4.4,3.8
+Females,some college,48,5.0,2.2,3.4
+Females,NA,12,3.4,3.2,2.8
+Females,some college,43,4.8,2.0,3.0
+Males,some college,37,5.2,1.8,6.0
+Females,some college,18,4.6,2.6,4.2
+Females,some college,18,4.8,3.0,3.8
+Females,some college,24,5.6,3.8,4.0
+Females,some college,23,5.4,3.6,4.8
+Females,some college,20,4.0,3.75,5.8
+Females,Finished HS,32,6.0,2.8,4.2
+Males,college graduate,37,5.0,1.8,3.6
+Males,some college,19,5.8,2.8,3.0
+Females,some college,29,4.0,3.6,2.6
+Females,some college,20,4.4,1.0,5.0
+Females,college graduate,26,5.6,1.4,5.2
+Females,college graduate,33,4.0,4.8,2.4
+Females,graduate degree,38,3.8,3.4,3.0
+Males,Finished HS,26,5.8,3.2,4.8
+Females,some college,30,5.2,5.4,5.6
+Males,some college,36,5.2,1.4,4.4
+Females,some college,41,6.0,2.0,3.6
+Females,graduate degree,34,5.6,3.8,3.8
+Females,some college,35,5.4,3.6,3.2
+Females,some college,40,5.2,3.0,4.2
+Females,some college,33,1.0,5.0,2.0
+Females,some college,28,4.2,4.0,3.6
+Females,some college,29,4.8,5.2,5.2
+Females,NA,17,1.6,4.6,3.4
+Females,some college,50,4.8,2.0,4.8
+Males,some college,20,4.75,5.0,5.8
+Females,some college,19,4.2,4.6,3.4
+Females,Finished HS,25,5.0,5.0,5.2
+Females,some college,31,4.4,4.4,4.0
+Females,college graduate,32,4.8,3.6,5.0
+Females,some college,32,5.8,2.8,4.8
+Females,some college,19,2.8,3.75,3.8
+Females,some college,22,5.4,3.2,4.0
+Females,some college,23,5.0,4.4,2.6
+Females,HS,18,4.8,1.0,4.0
+Females,some college,19,5.5,3.5,5.5
+Females,some college,24,5.4,3.6,4.2
+Females,some college,30,4.5,4.8,4.0
+Females,some college,33,5.75,1.4,4.8
+Males,Finished HS,51,4.6,3.2,2.2
+Females,college graduate,44,4.4,2.8,4.4
+Females,some college,23,4.0,4.6,4.6
+Males,some college,22,4.0,4.0,3.0
+Females,some college,26,5.4,3.2,6.0
+Females,some college,24,5.0,4.2,3.8
+Females,some college,52,6.0,5.6,5.0
+Females,some college,43,5.8,1.0,5.8
+Males,some college,25,4.6,2.6,4.0
+Females,some college,26,5.8,2.2,5.6
+Females,Finished HS,26,5.2,2.4,5.0
+Females,college graduate,25,5.4,4.8,4.2
+Females,Finished HS,26,6.0,1.0,6.0
+Females,Finished HS,41,4.0,5.2,3.0
+Females,HS,21,4.2,5.2,3.6
+Females,some college,23,5.6,3.4,3.4
+Males,college graduate,34,3.2,2.4,1.8
+Females,some college,41,6.0,1.6,4.6
+Females,some college,23,4.4,3.0,4.4
+Males,Finished HS,24,5.6,4.2,3.8
+Females,college graduate,45,5.4,5.2,2.6
+Females,some college,43,4.8,2.4,5.2
+Females,NA,15,5.0,4.2,3.8
+Females,NA,15,5.4,2.6,5.2
+Males,NA,16,4.6,5.0,5.0
+Males,NA,16,4.6,1.8,4.8
+Males,NA,15,3.4,3.8,3.2
+Males,NA,16,4.0,2.6,3.0
+Females,college graduate,27,5.6,1.6,4.8
+Females,graduate degree,37,6.0,5.2,4.8
+Females,Finished HS,25,4.8,2.0,5.0
+Females,NA,16,3.0,4.0,3.6
+Females,some college,21,5.0,2.6,4.6
+Males,NA,16,3.0,3.6,3.8
+Males,NA,16,3.2,3.2,3.8
+Males,some college,27,4.2,2.0,4.0
+Females,some college,27,4.4,2.0,4.6
+Males,some college,30,4.2,1.4,4.6
+Males,some college,23,5.2,2.4,2.8
+Males,some college,41,5.2,1.5,5.6
+Females,some college,26,4.0,4.6,2.6
+Females,some college,17,5.4,2.4,4.6
+Females,some college,35,4.4,3.0,3.4
+Males,some college,18,4.0,1.0,4.4
+Males,some college,19,3.2,4.0,2.4
+Males,Finished HS,42,4.8,4.2,3.2
+Females,some college,19,5.6,3.2,5.2
+Females,some college,35,5.6,5.2,5.8
+Females,some college,52,6.0,1.8,5.2
+Males,some college,19,4.8,2.6,4.6
+Females,some college,41,4.6,3.4,3.6
+Females,college graduate,23,5.8,2.6,5.2
+Females,some college,42,5.75,4.6,4.2
+Males,HS,19,5.0,2.4,5.6
+Females,some college,45,5.0,2.2,5.8
+Females,some college,44,5.0,3.0,5.4
+Males,some college,21,4.2,1.8,2.2
+Females,HS,19,5.2,2.8,5.4
+Males,some college,18,4.6,4.4,3.6
+Males,graduate degree,34,4.8,3.2,3.0
+Males,graduate degree,25,4.4,1.6,3.8
+Females,graduate degree,53,5.6,2.0,5.4
+Females,some college,36,5.4,2.8,4.0
+Males,HS,19,3.6,5.0,3.2
+Females,college graduate,31,5.2,3.75,5.2
+Males,graduate degree,23,4.2,4.0,5.2
+Females,some college,19,5.8,1.4,4.8
+Females,some college,26,4.2,2.8,4.2
+Females,Finished HS,23,4.6,4.0,4.8
+Males,some college,25,4.6,1.4,5.0
+Females,NA,17,3.8,3.4,4.6
+Females,HS,17,4.2,3.6,3.2
+Females,HS,17,2.8,3.6,5.4
+Males,NA,17,3.8,3.0,3.8
+Females,some college,16,4.2,5.2,4.8
+Males,NA,17,4.6,3.4,2.8
+Males,NA,17,5.4,2.4,5.2
+Males,NA,17,4.0,3.4,3.8
+Females,some college,20,5.0,5.0,3.25
+Females,NA,17,3.4,4.4,4.2
+Males,NA,17,3.4,3.8,4.6
+Males,NA,16,5.0,3.6,4.4
+Females,NA,17,4.4,3.4,3.8
+Females,NA,17,3.8,4.2,4.0
+Males,NA,17,5.2,3.0,4.8
+Females,some college,24,5.2,3.4,2.8
+Males,some college,18,5.8,2.6,5.6
+Males,some college,22,4.4,3.4,4.0
+Females,some college,27,5.6,2.2,5.8
+Females,some college,32,5.0,1.4,3.6
+Males,HS,34,5.8,3.0,4.2
+Females,college graduate,22,4.6,3.0,5.2
+Males,graduate degree,21,4.8,2.8,4.2
+Females,some college,24,5.2,4.2,4.0
+Females,some college,19,4.0,4.8,2.4
+Females,some college,30,5.6,2.0,5.0
+Females,some college,20,4.8,3.0,4.2
+Females,Finished HS,19,3.6,5.2,4.8
+Females,college graduate,23,5.4,3.8,2.4
+Males,HS,19,3.2,2.8,3.4
+Females,some college,21,5.4,2.2,5.0
+Females,NA,17,3.25,3.0,3.8
+Males,some college,21,4.8,3.2,5.4
+Males,some college,25,5.0,3.8,4.0
+Females,some college,22,4.4,2.4,4.6
+Males,some college,21,4.8,1.0,4.6
+Females,NA,14,4.2,5.4,1.4
+Males,some college,21,3.4,3.4,4.8
+Females,Finished HS,19,4.0,2.4,4.4
+Females,NA,13,3.6,3.0,5.0
+Females,Finished HS,31,4.6,2.6,5.4
+Females,college graduate,34,4.6,2.4,3.6
+Females,NA,15,3.0,5.0,3.2
+Females,HS,37,4.6,2.0,4.6
+Females,graduate degree,39,4.8,2.4,5.4
+Females,NA,17,6.0,5.2,4.8
+Males,HS,16,4.2,3.0,4.4
+Males,HS,16,5.2,2.4,4.8
+Males,NA,16,3.0,1.4,4.6
+Males,NA,40,2.4,4.6,2.2
+Females,NA,17,3.6,3.8,3.4
+Females,HS,17,4.4,4.6,4.8
+Males,NA,17,4.0,4.4,3.8
+Males,NA,17,5.2,2.8,5.4
+Males,graduate degree,74,2.6,2.0,3.6
+Females,HS,17,6.0,3.6,5.8
+Females,some college,30,5.2,3.75,5.0
+Males,college graduate,48,2.4,2.0,5.8
+Females,some college,32,4.4,3.4,4.8
+Females,college graduate,44,4.4,2.2,5.0
+Females,some college,40,5.8,3.2,5.6
+Females,college graduate,23,5.0,2.6,5.4
+Females,some college,40,5.2,3.2,5.4
+Females,some college,39,6.0,1.8,4.8
+Males,NA,17,4.0,4.4,4.6
+Females,some college,25,3.8,5.2,3.0
+Females,HS,24,5.0,1.2,3.6
+Males,NA,14,4.8,2.4,5.0
+Females,some college,26,5.0,5.0,4.8
+Males,college graduate,34,4.6,2.0,4.8
+Females,some college,20,3.8,3.8,4.2
+Females,some college,63,4.4,4.2,3.8
+Females,HS,18,4.6,2.5,5.2
+Females,graduate degree,28,6.0,3.4,6.0
+Females,Finished HS,48,5.4,2.0,5.4
+Females,some college,39,4.2,3.8,4.0
+Males,college graduate,35,4.8,1.2,5.6
+Females,Finished HS,46,4.2,2.2,4.0
+Males,some college,20,4.2,2.0,3.8
+Females,some college,23,5.4,1.6,3.8
+Females,some college,39,4.2,2.8,4.8
+Females,Finished HS,42,5.0,1.2,4.4
+Males,some college,26,5.2,3.4,4.8
+Females,some college,19,5.2,5.0,3.8
+Males,HS,38,3.4,4.4,4.0
+Females,some college,22,4.0,4.2,4.4
+Females,some college,23,5.0,2.6,5.4
+Females,some college,24,5.8,2.6,5.6
+Females,college graduate,25,5.8,4.2,4.8
+Females,some college,21,4.6,5.8,4.6
+Females,college graduate,39,4.2,4.0,3.6
+Males,graduate degree,31,4.8,1.8,5.0
+Males,HS,18,3.6,3.6,4.8
+Males,some college,20,2.8,1.6,4.4
+Males,some college,20,2.4,1.4,4.2
+Males,Finished HS,23,4.6,2.8,4.2
+Males,college graduate,24,4.8,1.2,3.0
+Females,NA,57,4.4,2.4,4.6
+Males,some college,20,3.2,2.6,4.6
+Males,some college,22,5.8,3.4,4.8
+Females,some college,21,5.0,4.0,4.2
+Females,college graduate,23,4.6,3.6,3.2
+Females,some college,22,4.8,2.0,4.6
+Females,some college,20,5.2,5.4,4.0
+Females,some college,31,4.8,4.8,5.25
+Males,Finished HS,48,4.2,5.2,3.0
+Females,graduate degree,29,5.4,2.4,4.6
+Females,some college,23,4.6,3.6,2.6
+Females,HS,34,5.6,3.2,5.0
+Males,some college,21,4.2,1.8,5.2
+Females,some college,27,5.0,4.8,4.0
+Females,college graduate,28,3.8,1.0,2.8
+Males,some college,19,4.75,2.6,5.0
+Females,HS,16,4.4,5.0,4.8
+Males,college graduate,41,5.4,2.8,4.4
+Females,Finished HS,34,5.2,5.2,4.4
+Males,college graduate,32,6.0,1.0,5.6
+Males,HS,31,5.0,3.0,3.0
+Females,some college,22,3.6,3.2,3.8
+Females,some college,31,5.4,4.2,5.2
+Females,NA,33,2.6,5.4,4.2
+Males,Finished HS,35,4.6,2.6,1.8
+Females,Finished HS,48,5.0,2.2,4.2
+Males,graduate degree,34,4.8,2.0,5.0
+Females,graduate degree,31,5.4,2.8,4.8
+Males,college graduate,32,4.4,1.8,3.2
+Females,some college,20,3.8,5.2,2.4
+Females,some college,19,3.8,1.6,5.2
+Females,graduate degree,50,5.4,2.2,4.4
+Females,some college,35,5.0,4.2,5.0
+Females,Finished HS,23,5.0,2.6,2.4
+Males,HS,18,3.2,2.8,2.6
+Females,HS,21,5.2,1.8,5.2
+Females,some college,20,5.2,3.6,3.2
+Males,graduate degree,54,5.4,4.0,4.8
+Females,some college,51,4.4,2.8,3.2
+Females,Finished HS,20,4.4,2.4,4.4
+Females,HS,38,4.8,4.4,1.8
+Females,college graduate,53,4.6,3.6,5.4
+Females,NA,17,3.2,4.6,3.6
+Females,HS,33,3.2,1.8,4.0
+Females,some college,17,2.2,4.2,2.2
+Females,NA,15,3.4,3.4,3.4
+Females,Finished HS,38,5.8,3.0,4.6
+Females,NA,13,4.6,5.8,3.4
+Females,graduate degree,34,5.0,2.4,5.0
+Males,NA,14,3.6,2.0,2.6
+Females,HS,20,3.8,3.8,1.2
+Females,college graduate,27,4.6,4.0,5.0
+Females,Finished HS,42,4.6,1.8,5.6
+Females,HS,18,3.8,1.8,3.2
+Females,some college,20,4.2,4.0,3.5
+Females,graduate degree,56,5.2,2.6,5.0
+Males,some college,20,4.8,2.6,4.6
+Males,NA,37,4.4,3.2,3.4
+Females,NA,15,4.25,3.4,3.6
+Females,HS,20,5.2,5.2,3.6
+Females,some college,19,4.4,3.0,5.2
+Males,some college,20,5.2,3.0,4.0
+Females,some college,19,5.2,2.6,4.6
+Males,some college,20,5.2,1.4,5.6
+Females,HS,43,4.6,2.8,5.4
+Females,graduate degree,43,5.8,1.4,4.6
+Females,college graduate,26,4.2,4.0,1.6
+Females,NA,18,4.6,4.0,3.2
+Males,college graduate,24,3.8,4.8,3.6
+Females,some college,20,4.4,2.6,3.6
+Females,Finished HS,23,5.8,2.8,5.2
+Females,some college,25,4.6,2.6,4.8
+Females,college graduate,25,4.6,4.0,5.0
+Males,graduate degree,37,4.6,2.4,5.4
+Males,graduate degree,51,4.4,4.2,3.6
+Females,some college,36,5.4,3.0,3.4
+Males,some college,21,4.2,2.8,4.2
+Males,graduate degree,56,4.8,2.0,4.2
+Males,some college,19,5.6,4.8,5.2
+Females,graduate degree,41,5.8,4.0,4.6
+Males,some college,20,4.0,2.8,5.0
+Males,some college,22,3.8,2.0,5.8
+Females,some college,38,5.0,4.8,3.0
+Males,graduate degree,52,2.0,2.6,2.6
+Females,some college,37,4.2,5.8,2.8
+Females,Finished HS,27,4.4,4.0,3.4
+Females,some college,19,5.2,3.0,5.2
+Females,Finished HS,45,6.0,4.6,4.4
+Females,HS,28,3.2,3.6,3.4
+Females,some college,31,5.6,1.0,5.8
+Females,HS,19,4.8,1.6,3.75
+Females,graduate degree,31,5.6,3.8,5.0
+Females,HS,28,5.4,4.2,5.2
+Males,some college,21,4.0,3.8,1.2
+Females,Finished HS,19,3.8,3.6,2.0
+Females,some college,27,5.4,2.0,3.6
+Males,some college,21,4.0,3.2,4.4
+Males,some college,23,3.8,2.4,4.8
+Females,college graduate,29,5.6,3.4,5.2
+Males,some college,24,4.4,2.8,3.6
+Females,NA,16,4.4,2.6,3.4
+Males,some college,22,3.8,3.4,5.6
+Females,college graduate,41,5.4,5.8,4.0
+Males,some college,26,5.4,1.4,3.0
+Males,graduate degree,47,4.8,3.0,4.6
+Females,some college,50,4.8,4.0,4.4
+Females,graduate degree,29,4.6,2.6,4.2
+Males,some college,20,4.6,2.4,3.2
+Females,graduate degree,55,3.6,3.4,5.0
+Females,some college,22,4.8,4.4,4.0
+Females,some college,35,4.2,4.0,3.4
+Females,some college,20,5.2,2.4,3.2
+Males,Finished HS,49,4.0,3.6,2.8
+Females,graduate degree,39,5.0,2.0,4.6
+Females,some college,23,5.0,1.6,4.4
+Females,some college,25,5.2,3.8,4.2
+Males,graduate degree,25,5.8,3.0,2.6
+Females,NA,36,4.0,3.4,4.2
+Males,college graduate,38,4.6,2.0,4.6
+Males,HS,17,5.2,3.4,4.2
+Males,NA,17,4.8,5.4,3.2
+Females,some college,19,3.0,5.0,4.6
+Females,college graduate,56,6.0,1.8,5.0
+Females,college graduate,28,5.4,4.2,4.0
+Females,some college,17,4.6,2.6,4.4
+Females,some college,26,5.6,4.0,4.8
+Females,some college,46,4.0,4.0,5.0
+Females,some college,21,4.8,1.8,3.4
+Females,some college,46,5.0,4.4,4.6
+Females,Finished HS,39,5.8,1.8,5.0
+Females,some college,19,3.2,6.0,1.6
+Females,some college,25,5.6,3.0,3.6
+Males,graduate degree,22,5.2,2.6,2.6
+Females,NA,17,5.0,2.6,4.8
+Females,some college,27,5.4,3.6,4.4
+Females,college graduate,20,5.8,4.2,5.4
+Males,graduate degree,21,4.8,3.6,4.2
+Females,some college,21,5.4,3.6,3.8
+Females,college graduate,55,6.0,1.8,5.6
+Females,some college,24,5.4,3.2,3.4
+Males,college graduate,25,4.8,1.8,3.2
+Males,graduate degree,39,4.0,2.8,4.2
+Females,some college,39,5.4,4.4,5.2
+Females,some college,21,4.8,3.6,5.0
+Females,graduate degree,37,4.4,2.8,3.2
+Males,Finished HS,22,2.6,1.8,2.6
+Females,college graduate,24,5.4,1.0,4.8
+Females,some college,21,4.8,4.4,5.0
+Males,some college,20,4.6,2.2,5.0
+Males,some college,19,5.0,5.2,4.8
+Males,some college,21,4.8,1.6,4.2
+Males,graduate degree,30,4.8,2.8,4.6
+Females,HS,18,5.2,4.0,4.0
+Females,college graduate,53,4.0,5.2,3.2
+Males,some college,27,3.8,5.0,2.25
+Females,college graduate,48,3.4,4.2,3.0
+Females,college graduate,30,5.4,3.0,4.0
+Females,some college,25,5.2,3.4,3.4
+Females,college graduate,35,4.6,2.8,4.0
+Females,NA,17,5.0,5.2,3.6
+Females,some college,41,4.6,5.0,3.2
+Females,some college,41,5.2,1.2,5.0
+Females,some college,37,6.0,1.0,5.4
+Females,some college,60,4.8,3.0,4.4
+Females,some college,23,5.4,3.4,5.2
+Males,some college,53,5.6,2.0,4.8
+Females,Finished HS,19,4.6,1.6,2.8
+Females,some college,35,5.75,3.0,5.2
+Males,Finished HS,19,3.4,4.4,2.6
+Males,HS,24,5.4,2.2,5.4
+Females,some college,21,4.4,3.6,3.0
+Females,some college,29,4.8,1.4,4.6
+Females,college graduate,25,5.2,3.6,4.8
+Females,college graduate,25,5.2,2.0,4.8
+Females,some college,18,4.4,2.4,4.8
+Females,graduate degree,37,5.2,5.8,4.4
+Females,some college,20,5.0,5.0,5.0
+Females,some college,21,5.4,2.8,3.4
+Females,HS,34,5.4,3.4,4.8
+Females,Finished HS,38,5.8,1.8,5.4
+Males,college graduate,30,4.0,4.4,4.0
+Males,HS,16,4.4,4.2,3.8
+Females,some college,23,4.6,4.4,4.0
+Females,some college,22,6.0,1.6,5.5
+Males,some college,37,4.6,1.4,5.2
+Males,college graduate,30,4.8,2.2,3.0
+Females,some college,21,4.4,3.4,5.6
+Females,some college,32,4.6,4.8,1.8
+Females,NA,14,2.0,1.6,2.0
+Females,college graduate,55,4.6,2.8,3.2
+Males,college graduate,26,4.4,2.75,4.8
+Females,graduate degree,22,6.0,2.4,5.2
+Males,some college,21,5.6,2.0,5.0
+Females,college graduate,28,3.4,4.4,1.4
+Females,graduate degree,41,4.8,1.6,3.8
+Males,NA,17,4.2,2.0,3.2
+Females,graduate degree,52,4.6,2.8,3.8
+Females,HS,18,4.8,4.0,5.4
+Males,graduate degree,56,4.2,1.0,3.6
+Females,graduate degree,55,3.6,2.4,3.4
+Females,college graduate,43,5.0,1.0,5.6
+Males,some college,22,3.0,4.6,2.6
+Females,college graduate,25,5.0,3.6,4.4
+Females,some college,27,3.0,3.0,4.0
+Females,Finished HS,48,6.0,2.4,6.0
+Females,graduate degree,31,3.6,3.6,3.0
+Females,some college,24,4.8,3.0,5.4
+Males,some college,21,3.4,3.6,4.75
+Males,some college,24,5.8,2.8,6.0
+Females,some college,21,5.0,4.0,4.6
+Females,some college,27,5.0,4.6,5.6
+Males,HS,18,1.4,1.0,1.6
+Males,some college,24,4.8,2.8,3.6
+Males,graduate degree,32,4.0,2.6,3.5
+Females,HS,19,4.0,4.8,2.6
+Females,graduate degree,52,5.6,2.2,3.2
+Males,HS,18,5.6,3.6,3.6
+Males,some college,30,4.8,1.4,4.0
+Males,HS,18,4.0,3.6,3.4
+Females,college graduate,22,2.2,3.4,4.6
+Males,college graduate,46,4.0,1.4,2.8
+Males,NA,16,4.0,1.8,2.4
+Males,college graduate,28,4.4,4.2,3.2
+Females,some college,19,4.8,3.8,5.0
+Males,college graduate,38,4.6,1.8,5.0
+Females,college graduate,24,2.2,2.2,3.8
+Females,college graduate,22,3.8,3.8,3.8
+Females,HS,16,2.6,4.6,4.2
+Females,college graduate,24,5.0,1.0,4.8
+Males,some college,23,3.6,3.2,3.2
+Males,college graduate,23,4.4,2.2,3.6
+Females,graduate degree,22,5.2,5.0,4.2
+Males,graduate degree,24,3.4,2.4,3.8
+Females,some college,26,5.6,2.0,4.4
+Females,some college,22,4.8,4.0,4.2
+Males,HS,35,3.6,2.4,3.6
+Females,some college,43,5.6,1.8,4.8
+Females,NA,17,6.0,1.4,5.4
+Females,graduate degree,37,5.4,1.4,5.4
+Females,some college,21,6.0,1.4,5.4
+Females,some college,21,4.6,2.8,5.6
+Females,graduate degree,25,4.6,1.8,2.8
+Males,some college,27,4.6,2.6,5.0
+Males,college graduate,22,4.2,2.8,3.2
+Females,some college,19,5.2,4.4,3.8
+Females,some college,40,6.0,2.6,6.0
+Males,HS,21,3.8,1.6,2.6
+Males,HS,17,4.0,4.6,2.6
+Males,NA,21,4.6,3.2,5.2
+Males,NA,17,2.6,5.4,3.0
+Females,Finished HS,19,5.8,3.6,5.4
+Females,some college,22,5.2,3.8,3.4
+Females,some college,18,4.6,2.4,4.2
+Males,Finished HS,62,5.75,4.2,5.6
+Females,college graduate,22,3.6,3.8,2.8
+Females,some college,31,5.8,5.4,5.0
+Males,HS,22,4.4,2.6,1.0
+Males,college graduate,23,4.4,2.6,4.0
+Females,some college,22,5.6,3.6,3.8
+Females,NA,31,3.0,4.6,3.4
+Males,Finished HS,50,5.75,1.2,5.8
+Males,HS,20,3.8,2.8,2.6
+Females,some college,28,5.8,4.0,3.6
+Males,college graduate,35,5.2,1.0,5.2
+Females,some college,20,4.4,3.4,3.0
+Females,college graduate,36,4.8,2.0,5.4
+Females,NA,27,4.8,5.4,4.0
+Males,college graduate,28,4.2,2.0,2.2
+Females,Finished HS,40,4.4,2.8,2.8
+Females,some college,20,2.8,2.6,2.8
+Males,some college,23,4.2,2.6,1.2
+Females,some college,18,3.6,3.6,4.2
+Females,Finished HS,23,4.4,4.0,4.0
+Females,graduate degree,27,5.4,2.0,3.5
+Females,some college,22,4.4,2.2,4.6
+Females,some college,17,3.5,3.0,3.5
+Males,Finished HS,32,3.6,3.4,3.8
+Males,some college,25,4.0,3.8,3.8
+Females,graduate degree,28,4.4,3.2,3.0
+Females,college graduate,25,4.4,2.0,3.6
+Females,Finished HS,40,5.0,3.2,6.0
+Females,some college,28,5.2,1.6,5.2
+Females,Finished HS,33,4.6,3.2,4.6
+Females,college graduate,39,5.4,3.4,4.6
+Males,some college,20,5.4,1.4,4.2
+Females,NA,46,4.6,4.4,3.8
+Females,graduate degree,28,5.4,3.2,4.0
+Females,some college,21,4.6,4.0,5.4
+Males,some college,36,5.0,1.0,5.4
+Females,graduate degree,50,5.0,2.4,3.0
+Females,some college,40,6.0,2.8,3.8
+Females,some college,46,6.0,2.4,4.4
+Females,some college,11,6.0,2.4,5.0
+Females,some college,38,6.0,1.0,6.0
+Females,some college,22,4.0,1.4,3.4
+Males,HS,16,4.4,5.0,4.4
+Females,NA,15,3.4,3.2,1.0
+Males,Finished HS,19,4.4,1.8,4.6
+Females,HS,20,3.8,4.0,3.4
+Females,graduate degree,29,4.8,3.2,3.4
+Females,some college,25,5.2,3.2,4.6
+Males,some college,25,4.6,5.4,2.6
+Males,some college,25,4.2,4.8,3.0
+Females,some college,21,4.2,5.8,4.0
+Females,some college,19,3.8,2.8,1.4
+Females,some college,40,5.6,2.6,3.0
+Males,some college,19,5.4,1.0,5.4
+Females,college graduate,38,6.0,1.4,5.0
+Females,some college,22,5.4,5.5,5.6
+Females,college graduate,43,5.4,3.6,4.2
+Females,college graduate,36,3.4,2.6,5.6
+Females,Finished HS,86,4.2,1.6,3.0
+Females,college graduate,24,4.6,3.4,5.0
+Females,HS,17,2.6,3.4,3.2
+Females,college graduate,33,5.2,2.4,4.8
+Females,graduate degree,26,2.6,2.6,1.8
+Females,HS,24,5.2,4.75,3.8
+Females,college graduate,21,5.6,1.8,5.8
+Females,HS,18,2.8,3.8,4.8
+Females,college graduate,50,4.8,3.4,4.8
+Males,some college,20,2.8,3.4,3.0
+Females,college graduate,59,5.4,2.6,5.0
+Females,some college,19,3.6,2.8,3.8
+Females,some college,20,4.6,2.0,4.8
+Males,some college,19,3.8,2.4,3.4
+Females,some college,19,5.75,2.2,5.8
+Males,Finished HS,20,4.6,4.6,4.8
+Females,graduate degree,24,4.4,4.0,3.8
+Males,some college,18,4.8,1.8,3.4
+Females,NA,15,5.4,2.6,3.8
+Females,Finished HS,44,4.2,2.8,5.6
+Females,some college,32,5.8,4.0,5.6
+Males,graduate degree,27,5.2,2.2,3.6
+Females,graduate degree,59,5.8,1.0,4.2
+Females,Finished HS,20,4.8,4.6,4.2
+Females,Finished HS,54,4.6,3.0,5.0
+Females,graduate degree,25,5.4,4.4,5.6
+Females,Finished HS,43,5.6,1.0,5.0
+Males,Finished HS,20,2.4,3.6,1.2
+Males,some college,20,4.0,3.8,3.8
+Females,some college,28,5.6,5.8,3.4
+Males,college graduate,38,3.4,4.4,3.4
+Females,college graduate,23,2.6,2.2,3.8
+Females,some college,26,3.6,2.8,4.0
+Males,college graduate,31,4.8,3.2,4.8
+Females,Finished HS,53,4.8,3.6,4.0
+Females,graduate degree,45,5.0,3.0,4.8
+Females,college graduate,20,5.2,3.8,4.6
+Females,graduate degree,52,5.4,2.8,4.8
+Males,HS,19,2.6,4.0,1.0
+Females,HS,31,4.8,1.8,5.0
+Females,some college,18,3.6,2.8,4.0
+Females,some college,23,4.0,1.8,3.6
+Females,some college,18,5.4,2.2,4.4
+Females,college graduate,29,5.4,1.6,4.8
+Males,graduate degree,46,5.4,4.8,4.2
+Males,graduate degree,58,3.8,3.6,4.4
+Females,graduate degree,38,5.6,1.8,4.4
+Females,graduate degree,27,2.2,4.2,2.2
+Females,graduate degree,41,5.6,5.4,5.2
+Females,HS,58,5.4,2.4,4.0
+Males,college graduate,34,5.6,2.0,5.6
+Females,some college,20,4.75,5.4,1.4
+Females,graduate degree,33,4.8,1.2,5.6
+Males,some college,19,3.4,2.6,4.2
+Females,some college,18,4.6,3.8,4.0
+Females,some college,20,4.6,6.0,3.4
+Females,some college,27,5.0,4.2,5.2
+Females,some college,20,5.4,2.2,5.2
+Females,some college,31,5.0,2.2,5.8
+Males,graduate degree,32,2.6,4.6,2.4
+Females,graduate degree,32,5.2,3.0,2.6
+Males,Finished HS,45,5.0,2.4,4.2
+Females,NA,17,3.6,4.4,2.8
+Males,graduate degree,39,4.0,3.8,3.75
+Males,HS,35,4.8,3.0,5.2
+Females,graduate degree,26,5.8,3.0,3.8
+Males,graduate degree,29,3.4,3.75,4.4
+Females,some college,28,6.0,2.8,4.8
+Females,some college,26,5.8,2.4,5.8
+Females,some college,26,5.0,2.8,4.4
+Females,NA,12,3.4,5.0,1.8
+Females,Finished HS,21,5.0,2.0,4.0
+Males,graduate degree,30,4.0,4.0,2.8
+Males,Finished HS,43,5.0,1.4,4.4
+Males,Finished HS,38,4.0,5.4,4.6
+Females,some college,19,4.6,1.0,4.2
+Females,Finished HS,22,4.8,4.6,2.4
+Females,college graduate,34,4.0,5.4,4.0
+Males,some college,20,4.4,4.2,2.25
+Males,some college,26,4.4,1.6,5.2
+Males,graduate degree,45,5.4,2.4,5.0
+Males,HS,31,4.2,4.6,2.4
+Males,graduate degree,40,5.4,3.0,5.4
+Females,some college,20,4.8,5.8,3.6
+Males,Finished HS,61,3.6,4.0,3.2
+Females,HS,18,3.8,2.4,2.0
+Females,some college,49,5.4,1.6,4.4
+Males,college graduate,38,4.4,3.6,4.6
+Females,NA,16,3.0,3.8,2.6
+Females,some college,27,5.0,2.6,4.6
+Females,college graduate,38,6.0,2.6,5.6
+Females,HS,28,5.8,1.4,4.6
+Males,some college,20,4.4,1.4,6.0
+Females,graduate degree,43,5.8,1.2,3.8
+Females,graduate degree,29,4.0,4.0,2.6
+Females,HS,19,4.6,6.0,3.0
+Males,some college,39,3.6,2.5,4.0
+Males,Finished HS,19,5.2,1.2,4.6
+Males,some college,18,4.8,3.2,4.0
+Females,some college,18,2.8,3.4,5.6
+Females,graduate degree,38,4.2,1.2,5.4
+Females,college graduate,34,4.8,2.4,4.4
+Females,college graduate,45,6.0,1.8,5.0
+Females,NA,17,4.4,2.2,4.4
+Males,some college,18,3.6,2.4,3.6
+Females,some college,37,3.4,4.6,4.0
+Females,some college,24,3.4,1.6,4.6
+Males,some college,29,4.2,2.2,4.4
+Females,graduate degree,60,5.2,3.2,5.2
+Females,some college,25,6.0,6.0,4.4
+Females,Finished HS,32,3.4,1.2,4.4
+Males,HS,21,4.8,1.0,3.8
+Males,Finished HS,26,5.8,4.0,4.8
+Females,graduate degree,43,5.0,2.8,3.6
+Females,college graduate,25,5.4,3.8,4.4
+Males,college graduate,25,4.6,5.0,3.8
+Females,some college,20,4.2,1.8,4.8
+Males,some college,19,5.6,1.6,6.0
+Females,graduate degree,28,5.2,2.4,4.8
+Males,some college,23,3.2,2.6,4.4
+Females,college graduate,23,5.0,2.4,5.2
+Females,HS,17,5.4,5.2,4.2
+Females,some college,19,5.0,2.8,5.4
+Females,HS,20,4.4,4.8,2.0
+Males,graduate degree,60,5.0,2.2,4.0
+Males,college graduate,40,5.0,4.8,2.0
+Females,some college,19,4.2,1.6,4.6
+Females,some college,18,4.6,3.8,4.4
+Females,HS,21,4.2,1.6,1.8
+Females,some college,49,5.4,2.4,3.8
+Females,HS,24,4.2,5.0,3.4
+Males,some college,20,4.6,2.0,4.8
+Females,some college,20,5.0,2.6,4.2
+Females,graduate degree,28,4.0,4.0,3.8
+Females,some college,24,4.5,4.0,4.6
+Males,graduate degree,36,4.5,4.0,3.8
+Females,some college,20,4.2,2.0,5.2
+Males,some college,28,3.6,2.8,2.0
+Males,college graduate,29,4.2,2.8,2.2
+Males,some college,22,4.2,2.4,4.6
+Males,Finished HS,26,4.4,4.6,4.2
+Males,Finished HS,20,2.8,4.0,1.4
+Females,NA,15,4.8,4.2,4.0
+Males,some college,18,3.0,5.2,3.4
+Males,graduate degree,38,4.6,3.0,3.2
+Females,some college,19,5.8,2.4,5.4
+Females,some college,23,5.0,3.6,2.2
+Males,college graduate,32,4.0,1.4,4.4
+Females,some college,36,4.8,1.4,4.6
+Males,some college,19,5.2,4.0,4.0
+Males,college graduate,37,3.2,2.0,2.6
+Males,some college,23,2.6,3.8,1.2
+Females,some college,22,6.0,2.2,4.0
+Females,college graduate,33,4.6,3.0,4.0
+Females,some college,20,5.4,2.0,4.6
+Males,Finished HS,43,3.8,4.8,5.0
+Females,some college,21,5.6,2.6,4.0
+Females,some college,34,5.0,2.2,6.0
+Males,some college,25,4.4,4.2,4.8
+Males,some college,30,3.6,2.8,4.6
+Females,college graduate,57,4.8,2.2,4.0
+Females,some college,25,4.6,2.25,4.4
+Females,some college,24,6.0,2.6,4.4
+Males,some college,23,4.4,1.8,5.4
+Males,Finished HS,31,5.4,1.2,5.0
+Males,college graduate,50,5.2,1.6,4.2
+Males,HS,18,4.0,3.6,3.8
+Males,some college,23,4.6,2.6,4.6
+Females,some college,27,4.2,3.6,2.8
+Males,some college,21,5.2,1.0,4.8
+Females,some college,21,3.8,2.6,3.4
+Females,NA,14,5.2,2.0,4.6
+Males,HS,30,2.8,3.0,4.0
+Females,some college,37,4.6,3.2,4.6
+Females,NA,16,4.4,3.0,4.8
+Males,some college,19,4.8,6.0,1.6
+Females,some college,26,4.4,2.0,3.2
+Females,some college,49,5.25,5.8,4.2
+Males,graduate degree,25,4.0,3.4,4.0
+Females,Finished HS,22,4.8,5.4,5.2
+Females,some college,19,4.0,4.0,3.0
+Females,some college,19,5.0,2.8,4.8
+Females,some college,19,5.2,3.2,4.2
+Males,HS,16,4.8,2.4,5.2
+Females,college graduate,49,5.75,2.2,3.6
+Females,college graduate,54,5.0,4.2,4.2
+Females,graduate degree,40,4.8,3.0,5.2
+Males,some college,20,4.6,3.0,3.75
+Males,some college,20,4.8,2.0,5.0
+Females,graduate degree,28,4.2,4.0,6.0
+Females,college graduate,35,4.2,5.8,4.6
+Males,graduate degree,67,4.0,3.6,2.6
+Females,some college,26,5.6,2.4,5.4
+Males,some college,23,3.8,2.2,6.0
+Males,HS,43,5.4,2.4,3.8
+Females,some college,20,5.4,4.4,3.8
+Females,some college,31,5.25,3.6,5.4
+Females,graduate degree,56,5.2,3.2,5.5
+Males,some college,20,4.8,1.8,4.8
+Males,college graduate,28,4.4,2.2,2.6
+Males,college graduate,28,4.8,3.6,2.0
+Females,some college,25,2.8,2.0,2.0
+Females,some college,25,3.0,1.8,3.0
+Females,college graduate,35,3.6,5.0,4.4
+Females,NA,15,5.0,4.4,2.2
+Males,some college,56,4.2,3.8,3.8
+Females,some college,20,4.2,2.6,5.2
+Females,some college,39,5.8,3.6,3.6
+Males,Finished HS,35,5.0,5.2,2.0
+Females,some college,22,5.4,2.0,5.0
+Females,some college,26,4.4,3.8,4.4
+Females,HS,31,4.6,1.6,4.4
+Females,college graduate,50,6.0,3.4,4.8
+Males,NA,51,5.0,1.0,3.8
+Males,college graduate,23,2.2,1.2,3.8
+Females,graduate degree,40,5.6,4.4,4.4
+Females,Finished HS,44,6.0,2.0,5.2
+Males,some college,19,5.0,1.25,5.6
+Males,college graduate,43,2.6,2.6,3.4
+Females,some college,20,4.0,1.6,4.2
+Males,some college,24,4.2,3.2,4.6
+Males,college graduate,55,6.0,1.0,4.0
+Females,graduate degree,45,5.4,2.0,5.6
+Females,graduate degree,25,5.8,2.6,6.0
+Females,some college,21,5.6,2.4,4.8
+Females,Finished HS,38,4.8,1.2,2.8
+Females,NA,17,1.2,2.0,1.4
+Males,Finished HS,30,5.8,1.6,5.0
+Males,college graduate,22,4.0,2.2,3.8
+Females,some college,27,6.0,2.4,5.2
+Females,some college,48,4.6,5.0,3.6
+Males,NA,55,5.8,4.0,5.8
+Females,some college,21,5.8,2.8,4.2
+Males,Finished HS,23,4.0,3.6,3.8
+Females,some college,20,3.0,2.6,3.6
+Females,some college,23,5.8,4.2,4.4
+Females,college graduate,24,5.2,3.4,4.4
+Females,Finished HS,29,5.6,2.6,3.6
+Females,graduate degree,30,4.2,5.4,3.6
+Females,some college,33,5.0,4.6,4.2
+Females,college graduate,24,5.8,5.0,4.5
+Females,graduate degree,26,2.4,5.2,3.6
+Males,college graduate,41,3.4,2.2,3.6
+Males,HS,19,3.6,3.8,4.0
+Females,HS,20,1.8,5.4,1.8
+Females,graduate degree,44,4.4,3.6,4.0
+Females,some college,27,5.8,2.2,4.4
+Females,college graduate,33,5.0,3.0,5.4
+Females,graduate degree,40,4.4,3.0,2.6
+Females,NA,17,2.8,5.8,5.4
+Females,some college,20,4.4,3.8,2.8
+Females,Finished HS,25,4.6,2.4,4.0
+Males,some college,18,3.0,2.2,2.8
+Females,some college,22,5.6,2.0,5.4
+Males,Finished HS,27,4.2,2.2,3.6
+Females,HS,18,3.6,5.8,4.2
+Females,college graduate,24,4.8,4.2,5.2
+Males,graduate degree,35,4.8,2.0,4.8
+Males,graduate degree,40,5.4,2.8,5.0
+Females,college graduate,29,5.4,2.0,3.8
+Females,college graduate,24,5.4,4.2,4.8
+Females,NA,14,4.4,5.4,4.8
+Females,college graduate,54,4.0,3.8,4.2
+Females,college graduate,29,4.4,3.8,3.2
+Males,some college,26,5.2,4.0,4.8
+Females,some college,26,5.2,1.8,4.4
+Females,college graduate,26,4.0,3.4,3.6
+Females,some college,39,5.8,2.4,4.8
+Females,HS,18,3.2,5.0,2.2
+Females,Finished HS,28,4.0,2.4,4.0
+Females,NA,16,2.8,4.0,1.8
+Males,graduate degree,27,5.2,2.8,3.8
+Males,some college,23,2.0,1.0,3.0
+Females,some college,32,5.6,3.8,5.2
+Males,graduate degree,56,6.0,1.6,5.8
+Females,some college,19,5.0,3.6,5.0
+Females,college graduate,26,4.75,2.8,2.0
+Females,college graduate,41,5.2,5.2,3.4
+Males,graduate degree,67,4.2,1.0,3.2
+Males,Finished HS,36,3.4,3.0,2.0
+Females,graduate degree,32,5.2,4.0,5.2
+Females,college graduate,21,2.8,3.8,1.4
+Females,some college,18,3.6,3.4,1.8
+Females,graduate degree,29,3.4,4.8,2.8
+Females,some college,26,4.2,4.0,4.4
+Females,some college,19,2.8,3.2,1.6
+Males,NA,16,3.8,2.4,2.4
+Males,college graduate,32,3.8,2.6,4.4
+Females,some college,18,5.2,4.2,3.4
+Females,some college,19,5.2,2.0,5.0
+Males,graduate degree,63,3.8,1.0,5.2
+Females,graduate degree,27,5.6,1.6,5.2
+Females,some college,20,2.8,4.4,1.6
+Females,some college,54,4.6,3.0,2.4
+Males,graduate degree,25,3.8,3.2,1.4
+Males,college graduate,46,3.6,4.2,3.0
+Females,graduate degree,51,5.2,1.75,3.6
+Females,graduate degree,38,4.0,2.8,2.2
+Females,some college,32,5.0,2.0,5.8
+Males,college graduate,24,4.6,2.8,3.6
+Females,HS,54,4.6,2.2,3.2
+Males,college graduate,38,2.6,3.0,2.2
+Females,some college,29,5.2,3.8,5.0
+Males,graduate degree,24,4.8,2.6,2.6
+Females,graduate degree,23,5.0,3.8,4.6
+Males,HS,25,3.2,4.0,1.75
+Males,Finished HS,19,5.8,2.8,4.6
+Females,some college,28,3.8,4.2,2.6
+Females,some college,20,5.8,2.8,5.0
+Females,some college,29,4.6,2.8,4.2
+Females,some college,16,5.0,4.2,2.8
+Females,Finished HS,23,4.0,5.6,3.6
+Females,Finished HS,23,2.6,5.6,4.2
+Females,some college,20,5.2,3.6,5.4
+Females,some college,19,4.6,2.8,5.2
+Females,NA,13,4.6,3.4,3.6
+Males,some college,20,3.8,2.5,2.0
+Females,some college,27,3.6,5.6,2.8
+Males,some college,21,2.6,1.4,2.0
+Females,HS,16,5.2,2.4,5.2
+Females,college graduate,28,5.0,3.2,5.2
+Females,some college,33,4.6,2.4,3.6
+Females,some college,27,4.8,6.0,1.8
+Females,some college,52,5.4,1.6,5.0
+Females,graduate degree,36,4.4,3.6,2.6
+Females,graduate degree,36,5.0,3.0,2.8
+Females,graduate degree,29,5.4,4.6,4.8
+Females,some college,20,5.0,2.0,5.4
+Females,graduate degree,35,3.6,1.4,4.25
+Males,college graduate,37,3.4,3.8,3.4
+Females,graduate degree,42,5.6,2.4,4.8
+Males,some college,19,4.4,3.0,5.0
+Males,college graduate,30,5.4,3.6,4.4
+Males,some college,18,4.2,2.4,4.6
+Females,NA,9,5.0,5.0,5.5
+Females,college graduate,27,4.8,3.6,3.2
+Males,Finished HS,18,5.2,3.4,5.2
+Males,Finished HS,24,2.2,1.0,2.0
+Females,some college,20,3.4,1.4,2.0
+Females,NA,14,2.4,3.8,3.2
+Females,some college,21,4.0,3.0,4.8
+Females,some college,21,4.0,3.8,3.6
+Females,graduate degree,66,5.6,1.2,5.0
+Females,HS,22,5.4,3.0,5.0
+Males,HS,49,4.2,3.2,4.8
+Females,some college,42,4.75,4.4,4.2
+Females,college graduate,19,3.2,3.2,3.2
+Females,college graduate,19,3.0,2.8,3.0
+Females,graduate degree,32,5.6,5.8,3.0
+Females,some college,29,5.8,2.8,5.8
+Females,college graduate,31,3.8,2.6,4.8
+Males,Finished HS,21,5.4,3.2,5.4
+Females,Finished HS,27,5.4,1.6,5.2
+Females,some college,23,3.4,4.8,4.8
+Females,some college,20,4.8,3.2,4.0
+Females,Finished HS,57,4.2,3.0,3.2
+Females,Finished HS,38,4.0,3.6,4.2
+Females,Finished HS,18,4.8,3.2,3.8
+Males,Finished HS,23,4.6,6.0,3.6
+Females,some college,34,5.0,3.2,4.4
+Males,college graduate,67,4.8,5.2,2.2
+Females,some college,30,4.6,4.6,5.8
+Females,graduate degree,31,4.2,3.6,4.2
+Males,college graduate,54,3.8,2.6,1.4
+Males,graduate degree,32,4.2,1.4,4.0
+Females,some college,47,5.4,3.6,5.25
+Females,some college,20,3.8,3.6,5.0
+Females,HS,20,1.8,5.6,1.6
+Females,some college,34,5.4,4.0,5.2
+Females,NA,14,4.2,4.2,4.2
+Females,Finished HS,32,3.2,5.75,4.0
+Males,some college,27,4.4,2.0,5.4
+Males,some college,19,4.0,5.0,3.0
+Females,some college,20,3.6,2.0,5.0
+Males,some college,21,5.0,1.8,4.0
+Females,some college,23,2.8,3.4,4.4
+Males,college graduate,42,4.0,1.0,2.8
+Females,some college,27,5.4,4.6,5.4
+Males,some college,19,4.8,4.4,3.6
+Females,some college,21,4.8,4.4,4.4
+Females,graduate degree,47,5.6,3.0,3.0
+Females,graduate degree,58,5.4,3.4,2.6
+Females,some college,20,4.4,6.0,3.0
+Males,some college,29,4.4,1.6,5.0
+Females,some college,18,5.0,3.6,4.8
+Females,HS,18,3.0,4.2,4.6
+Females,Finished HS,21,4.4,2.2,4.4
+Females,graduate degree,36,5.8,4.6,4.8
+Females,some college,18,3.8,3.0,4.8
+Females,graduate degree,53,6.0,1.8,5.4
+Males,college graduate,23,5.0,4.2,3.4
+Females,some college,19,2.6,4.2,2.4
+Males,some college,22,4.2,4.4,4.2
+Females,Finished HS,19,4.0,4.6,4.2
+Females,some college,20,5.2,2.2,4.8
+Females,college graduate,24,3.6,3.0,4.2
+Females,Finished HS,23,4.8,2.6,4.6
+Males,some college,20,4.4,5.0,3.8
+Females,college graduate,33,5.4,5.2,5.0
+Males,HS,16,4.2,4.2,4.6
+Males,HS,17,6.0,2.4,4.4
+Females,some college,21,4.0,2.2,3.4
+Females,graduate degree,31,4.0,6.0,4.0
+Females,Finished HS,57,4.0,1.0,4.4
+Females,some college,20,6.0,3.8,4.8
+Females,Finished HS,19,4.6,5.0,4.4
+Females,Finished HS,19,4.6,4.0,4.4
+Females,Finished HS,19,4.0,4.0,3.6
+Females,Finished HS,19,4.0,2.6,3.6
+Females,Finished HS,19,4.0,2.6,3.6
+Females,Finished HS,19,4.0,2.2,3.6
+Females,Finished HS,19,4.0,2.8,3.6
+Females,Finished HS,19,4.0,2.2,3.6
+Females,Finished HS,19,4.0,3.2,3.6
+Females,Finished HS,19,4.0,3.2,4.6
+Females,some college,19,3.4,2.0,3.6
+Males,graduate degree,42,4.0,5.2,2.4
+Females,graduate degree,46,4.4,6.0,4.6
+Females,Finished HS,20,5.2,4.6,4.8
+Females,some college,20,4.4,3.2,3.2
+Females,college graduate,20,3.8,4.6,3.8
+Females,some college,21,4.6,1.8,4.5
+Males,Finished HS,25,5.4,1.4,5.0
+Females,Finished HS,19,4.0,3.2,4.4
+Females,graduate degree,52,5.4,1.5,5.0
+Males,some college,20,4.0,2.4,3.2
+Females,some college,19,3.6,2.0,3.0
+Males,some college,34,5.2,1.4,5.0
+Males,some college,29,3.2,2.6,2.8
+Females,Finished HS,36,4.2,1.8,4.8
+Males,HS,18,3.2,4.0,3.0
+Males,some college,25,4.4,2.6,3.2
+Females,some college,30,3.6,3.8,3.6
+Males,graduate degree,32,5.0,2.4,5.4
+Females,some college,32,4.6,5.0,3.0
+Females,HS,16,2.8,2.2,5.0
+Females,some college,19,2.0,3.6,3.4
+Males,graduate degree,29,5.2,4.2,4.8
+Females,college graduate,30,5.0,3.0,4.4
+Females,some college,27,4.8,2.6,4.2
+Females,graduate degree,41,5.4,4.0,4.0
+Females,college graduate,28,3.0,3.8,4.0
+Males,graduate degree,26,3.8,1.8,3.6
+Males,graduate degree,35,5.6,1.8,5.0
+Females,college graduate,43,4.0,4.4,4.4
+Females,graduate degree,37,5.2,4.0,3.0
+Males,graduate degree,23,5.25,5.4,2.8
+Males,graduate degree,20,6.0,2.8,4.8
+Females,Finished HS,24,5.0,4.0,4.25
+Males,graduate degree,21,5.4,2.0,5.0
+Females,college graduate,22,3.0,3.0,2.0
+Females,some college,20,5.2,2.8,4.4
+Females,some college,27,4.6,2.2,3.4
+Females,Finished HS,55,4.8,2.2,3.2
+Females,some college,39,4.6,3.0,3.4
+Females,graduate degree,31,4.2,4.8,4.4
+Females,graduate degree,33,3.0,1.2,5.4
+Females,college graduate,24,4.8,2.4,4.8
+Females,college graduate,22,4.0,3.6,3.8
+Males,some college,50,4.4,2.8,3.4
+Males,college graduate,22,5.2,1.8,5.4
+Females,some college,52,6.0,1.4,5.6
+Females,graduate degree,32,4.2,4.0,4.0
+Males,graduate degree,25,3.6,1.6,2.6
+Females,some college,23,3.6,3.8,3.8
+Females,Finished HS,19,3.8,4.0,4.0
+Females,graduate degree,33,5.4,2.2,5.4
+Males,college graduate,46,4.4,2.4,4.4
+Females,graduate degree,51,5.25,4.2,3.2
+Females,college graduate,37,4.2,4.4,1.4
+Females,some college,19,3.4,2.0,2.8
+Males,Finished HS,20,4.2,3.25,4.8
+Females,college graduate,44,2.8,1.8,4.6
+Females,some college,31,5.2,2.4,5.0
+Females,some college,22,4.8,2.2,5.8
+Males,some college,20,4.2,2.0,4.2
+Males,college graduate,22,5.8,2.4,4.4
+Females,some college,19,5.0,2.0,5.2
+Females,some college,19,4.2,4.0,2.0
+Females,some college,40,5.8,4.0,4.8
+Females,graduate degree,30,5.2,3.6,3.8
+Males,graduate degree,53,6.0,1.0,6.0
+Males,some college,20,5.8,1.4,4.4
+Males,college graduate,70,5.2,2.2,4.2
+Females,college graduate,56,5.6,2.2,5.4
+Females,Finished HS,31,5.2,4.8,5.0
+Males,some college,20,3.2,3.0,3.4
+Females,Finished HS,25,3.0,4.4,2.0
+Females,some college,20,4.0,5.0,4.6
+Females,some college,31,5.4,2.6,5.4
+Females,NA,13,4.0,5.0,4.333333333333333
+Females,college graduate,27,5.0,2.4,5.0
+Females,NA,13,4.4,4.4,4.0
+Females,some college,31,4.4,3.0,4.0
+Females,some college,21,4.2,4.0,3.8
+Females,some college,20,6.0,3.2,5.0
+Females,some college,18,5.2,2.6,3.6
+Males,some college,18,3.5,1.8,3.0
+Females,Finished HS,24,5.8,3.4,5.6
+Females,some college,45,5.2,1.2,4.0
+Males,HS,40,5.4,2.8,4.2
+Males,graduate degree,28,5.0,4.6,4.2
+Males,Finished HS,24,3.0,2.0,3.2
+Males,HS,25,4.6,2.8,4.6
+Females,Finished HS,20,3.8,4.0,5.2
+Males,HS,15,5.2,4.2,4.6
+Females,some college,19,4.0,3.0,5.0
+Females,graduate degree,39,5.4,4.4,4.6
+Males,college graduate,39,6.0,1.2,5.0
+Females,Finished HS,19,4.0,3.4,4.5
+Females,Finished HS,19,4.8,4.0,5.0
+Males,some college,23,4.8,3.8,5.0
+Males,HS,17,4.4,1.4,5.8
+Females,graduate degree,43,5.2,2.4,3.8
+Males,some college,20,3.8,2.4,5.0
+Males,some college,19,4.2,5.4,4.2
+Females,HS,62,6.0,3.8,5.4
+Females,some college,20,4.6,5.0,4.6
+Females,college graduate,22,3.4,4.8,2.6
+Females,Finished HS,21,3.4,3.2,3.6
+Females,some college,23,5.8,4.2,4.6
+Females,some college,18,3.6,3.4,5.0
+Females,some college,18,3.6,2.4,6.0
+Males,some college,19,5.2,5.2,3.0
+Males,some college,18,4.8,3.0,4.0
+Males,graduate degree,22,4.0,2.6,3.75
+Males,college graduate,24,5.6,1.4,4.8
+Females,some college,23,4.8,5.2,3.0
+Females,some college,22,6.0,2.2,6.0
+Males,some college,18,4.5,2.0,3.4
+Females,some college,34,4.6,5.6,3.8
+Males,graduate degree,43,4.6,2.2,3.8
+Males,graduate degree,33,3.2,2.4,3.2
+Females,Finished HS,25,3.6,3.2,5.0
+Males,HS,18,4.6,1.4,4.5
+Females,NA,25,2.4,3.2,3.4
+Females,graduate degree,38,4.8,4.6,3.4
+Females,college graduate,22,6.0,4.8,5.6
+Females,some college,39,4.8,2.0,5.0
+Females,some college,34,5.4,4.4,5.2
+Females,graduate degree,54,5.8,1.2,4.8
+Males,some college,56,5.2,1.6,4.4
+Females,some college,21,4.8,4.2,3.8
+Females,graduate degree,30,4.2,4.0,4.4
+Males,college graduate,22,4.0,4.4,2.4
+Females,graduate degree,31,4.8,2.6,5.6
+Females,some college,17,4.6,2.4,3.4
+Females,graduate degree,24,4.4,3.4,4.0
+Females,graduate degree,23,5.0,3.6,4.2
+Males,HS,21,3.6,2.6,3.8
+Males,some college,26,3.8,2.8,3.6
+Females,college graduate,21,3.4,4.0,2.8
+Females,college graduate,50,5.75,2.0,5.0
+Females,Finished HS,35,4.4,4.2,5.0
+Females,Finished HS,72,5.6,1.0,5.4
+Females,some college,39,4.8,2.8,3.8
+Females,Finished HS,40,4.8,4.0,3.0
+Females,some college,41,5.2,2.2,3.4
+Females,NA,14,4.4,3.6,4.6
+Females,college graduate,40,5.6,2.6,4.2
+Males,HS,36,6.0,1.8,5.2
+Males,HS,24,3.4,1.8,4.6
+Males,HS,19,4.4,1.2,2.6
+Females,college graduate,22,2.4,5.0,3.4
+Females,college graduate,38,6.0,1.0,6.0
+Males,NA,16,4.8,5.0,3.4
+Females,some college,20,5.0,5.75,4.4
+Females,college graduate,20,3.4,4.2,2.6
+Females,some college,32,4.4,1.8,4.0
+Males,college graduate,23,5.2,4.8,4.6
+Males,Finished HS,20,3.6,4.6,2.4
+Females,college graduate,28,4.4,3.0,4.8
+Females,some college,20,5.0,4.0,4.0
+Females,some college,20,5.6,2.8,4.0
+Females,graduate degree,48,5.8,3.4,4.4
+Females,college graduate,28,4.4,2.2,4.8
+Females,college graduate,28,4.4,2.2,5.0
+Females,college graduate,28,4.8,2.2,5.2
+Females,college graduate,28,4.4,2.4,5.2
+Females,some college,29,4.4,4.0,3.6
+Males,college graduate,28,4.4,2.8,4.6
+Females,some college,21,5.0,4.2,5.0
+Females,graduate degree,26,3.4,3.2,3.6
+Males,some college,40,5.6,2.0,5.2
+Females,Finished HS,25,5.4,3.2,4.6
+Males,HS,23,3.6,4.8,2.8
+Males,some college,19,4.8,1.8,2.2
+Males,some college,39,3.6,2.5,2.2
+Females,graduate degree,53,5.4,2.8,3.6
+Males,college graduate,21,5.6,3.8,4.6
+Females,graduate degree,31,5.6,5.0,4.8
+Females,some college,29,5.8,3.6,3.8
+Females,college graduate,50,5.8,1.6,4.0
+Males,college graduate,54,3.2,2.6,4.4
+Females,NA,18,1.8,6.0,3.2
+Females,some college,21,5.2,3.4,4.6
+Males,some college,22,5.4,1.6,4.0
+Females,graduate degree,32,4.8,2.4,3.4
+Females,some college,46,5.2,1.4,5.2
+Females,some college,40,5.8,5.6,4.0
+Females,graduate degree,52,6.0,1.4,4.6
+Females,some college,50,3.0,6.0,4.0
+Females,some college,19,5.2,4.2,4.4
+Females,graduate degree,25,5.0,3.8,3.6
+Males,some college,19,5.6,4.6,2.8
+Males,college graduate,22,6.0,4.0,4.0
+Females,college graduate,26,4.6,5.4,5.5
+Females,graduate degree,29,5.4,4.0,5.6
+Females,graduate degree,38,4.8,3.6,4.8
+Males,graduate degree,32,4.0,3.0,1.8
+Females,some college,23,5.2,4.2,5.4
+Males,HS,44,3.0,1.0,3.0
+Females,some college,35,4.6,4.4,4.4
+Males,graduate degree,21,5.0,2.2,3.6
+Females,graduate degree,29,5.4,2.2,4.2
+Males,college graduate,21,4.2,2.8,3.4
+Females,some college,33,5.4,1.6,5.25
+Females,college graduate,23,3.8,4.8,4.2
+Females,Finished HS,57,5.4,2.8,3.4
+Females,some college,21,4.8,5.4,2.6
+Females,graduate degree,42,5.6,2.4,5.4
+Females,college graduate,30,4.0,3.4,2.6
+Males,Finished HS,39,3.8,4.6,4.6
+Females,HS,17,4.0,4.2,3.2
+Females,graduate degree,36,5.6,1.6,5.4
+Females,college graduate,18,4.0,6.0,4.6
+Males,HS,20,4.6,1.0,5.6
+Males,graduate degree,21,1.8,4.6,3.6
+Males,Finished HS,20,4.6,3.6,4.4
+Females,college graduate,35,5.4,3.4,3.4
+Females,some college,26,5.6,2.6,5.0
+Males,college graduate,26,4.0,4.4,3.4
+Females,Finished HS,40,6.0,6.0,4.6
+Males,college graduate,23,4.4,2.0,4.4
+Males,graduate degree,25,3.0,3.4,3.4
+Females,graduate degree,38,5.4,4.4,4.8
+Females,graduate degree,27,4.4,4.2,3.6
+Females,NA,14,5.0,3.6,4.4
+Females,HS,27,4.8,2.2,5.6
+Males,graduate degree,32,5.2,1.2,5.6
+Males,graduate degree,39,5.6,2.6,5.8
+Females,some college,31,4.6,4.4,5.0
+Males,graduate degree,31,3.0,5.4,4.0
+Females,Finished HS,20,5.8,2.6,5.4
+Females,graduate degree,32,4.8,2.6,5.2
+Females,some college,42,6.0,3.0,4.0
+Females,some college,20,5.2,4.5,4.4
+Females,some college,26,4.0,3.4,4.0
+Males,some college,23,3.8,2.2,4.0
+Males,some college,32,5.4,4.6,3.6
+Females,graduate degree,27,4.6,4.6,2.6
+Females,some college,19,5.6,3.2,2.4
+Females,some college,43,4.0,4.25,5.4
+Females,some college,31,6.0,2.4,5.6
+Females,graduate degree,25,4.8,2.6,4.0
+Females,graduate degree,29,6.0,2.6,5.0
+Males,some college,42,5.4,1.4,5.8
+Females,some college,39,4.0,4.2,5.2
+Females,graduate degree,31,3.6,3.8,1.75
+Males,graduate degree,24,5.4,2.0,5.6
+Females,graduate degree,45,4.8,3.4,3.0
+Males,graduate degree,30,5.8,2.0,5.4
+Females,college graduate,21,2.8,2.8,2.4
+Females,NA,14,4.8,5.0,4.4
+Females,some college,25,5.2,2.0,5.4
+Females,Finished HS,48,5.4,2.2,5.0
+Females,some college,40,4.4,5.8,3.4
+Males,college graduate,44,4.4,4.2,3.8
+Females,college graduate,36,4.6,4.8,4.0
+Females,Finished HS,28,2.4,4.2,2.8
+Males,some college,39,5.4,1.6,4.4
+Females,college graduate,35,5.0,4.5,3.4
+Males,some college,33,5.2,1.4,5.4
+Females,some college,21,5.0,1.4,4.0
+Males,some college,19,4.6,3.4,4.6
+Males,college graduate,45,4.0,3.0,4.0
+Females,college graduate,49,4.4,2.2,2.8
+Females,college graduate,23,4.4,3.2,4.0
+Females,some college,27,4.8,1.4,5.0
+Females,graduate degree,52,5.8,1.75,5.8
+Females,graduate degree,40,4.2,4.0,3.2
+Males,graduate degree,29,5.6,3.4,4.8
+Females,some college,49,4.4,1.8,4.4
+Females,Finished HS,30,4.0,5.2,3.2
+Females,some college,25,4.8,2.8,4.6
+Females,graduate degree,45,5.6,2.2,4.2
+Females,some college,27,6.0,1.6,6.0
+Females,some college,29,5.4,5.2,2.8
+Males,graduate degree,26,5.2,1.0,5.8
+Males,college graduate,32,5.4,1.6,5.6
+Males,graduate degree,29,2.6,3.2,2.6
+Females,some college,52,5.0,1.6,3.75
+Males,graduate degree,54,5.2,4.4,2.8
+Females,some college,20,5.2,3.2,5.4
+Females,HS,16,6.0,3.6,4.0
+Males,college graduate,36,5.2,1.75,3.2
+Females,some college,22,3.4,5.4,1.4
+Females,Finished HS,35,5.2,3.4,4.4
+Females,college graduate,24,5.6,4.2,5.6
+Males,graduate degree,38,5.2,1.0,5.2
+Females,some college,20,5.8,3.2,4.6
+Females,some college,33,5.2,3.2,5.0
+Females,some college,26,6.0,5.4,6.0
+Males,some college,19,5.4,2.6,5.2
+Males,some college,21,5.2,2.8,4.2
+Females,some college,28,6.0,2.4,5.0
+Females,Finished HS,19,4.8,1.8,5.25
+Females,some college,36,5.4,1.6,5.2
+Males,some college,51,3.8,4.5,2.2
+Males,college graduate,24,5.4,4.0,4.0
+Females,college graduate,34,4.0,5.4,4.2
+Females,some college,43,5.6,1.4,5.0
+Females,NA,20,5.4,3.4,2.25
+Females,graduate degree,44,4.2,4.2,3.2
+Males,some college,20,5.4,5.4,2.8
+Females,some college,18,3.8,3.4,4.2
+Females,graduate degree,45,5.6,3.8,4.0
+Females,Finished HS,27,5.0,2.0,5.6
+Females,some college,34,4.4,4.4,4.25
+Females,NA,14,2.4,4.2,1.2
+Females,some college,30,5.6,1.6,5.0
+Females,HS,53,5.6,1.2,4.0
+Females,graduate degree,35,2.4,2.8,3.8
+Females,some college,25,5.6,4.0,4.0
+Males,some college,21,6.0,2.2,5.2
+Females,NA,15,3.8,3.4,2.8
+Females,some college,62,5.4,1.8,5.2
+Females,some college,44,4.2,3.6,5.8
+Females,some college,49,4.8,4.2,4.2
+Females,college graduate,28,5.5,2.0,5.4
+Females,some college,29,4.8,2.4,3.6
+Females,some college,21,5.6,2.6,5.0
+Females,some college,23,5.2,1.8,5.8
+Females,graduate degree,37,4.2,2.6,3.0
+Males,some college,38,4.0,5.2,5.0
+Females,graduate degree,22,5.666666666666667,4.2,3.8
+Females,some college,26,2.8,3.0,5.4
+Males,some college,29,4.8,4.2,4.4
+Females,Finished HS,46,4.0,2.8,4.2
+Females,graduate degree,50,5.4,1.6,5.4
+Females,some college,24,4.6,3.6,3.2
+Females,some college,45,5.4,3.8,4.8
+Females,some college,32,5.0,4.0,4.8
+Males,some college,19,4.6,4.4,4.4
+Males,NA,15,6.0,2.6,5.75
+Males,some college,21,5.6,4.0,5.4
+Females,some college,38,5.8,2.0,4.0
+Females,some college,20,5.0,2.6,5.0
+Females,Finished HS,28,4.0,5.6,2.8
+Males,Finished HS,25,3.4,4.4,1.6
+Females,some college,47,6.0,3.5,5.0
+Females,some college,47,6.0,3.6,4.8
+Females,some college,55,2.8,3.0,4.2
+Females,some college,55,2.8,3.0,4.2
+Females,some college,31,4.8,3.0,4.2
+Females,HS,24,5.2,3.0,4.0
+Males,HS,51,4.6,2.2,3.2
+Females,college graduate,43,5.6,1.8,6.0
+Females,some college,30,3.2,2.6,1.8
+Males,some college,38,5.0,3.4,6.0
+Males,some college,24,4.0,2.0,4.6
+Females,college graduate,49,4.8,6.0,3.0
+Males,NA,16,3.2,2.4,3.8
+Males,graduate degree,23,4.8,2.4,4.4
+Females,some college,44,5.0,3.75,2.75
+Females,some college,50,5.6,1.8,5.0
+Males,college graduate,25,5.4,3.2,5.2
+Females,some college,40,2.6,4.6,5.6
+Females,some college,25,6.0,3.0,6.0
+Males,college graduate,21,2.6,3.6,3.6
+Females,some college,23,5.2,3.6,4.6
+Males,college graduate,22,4.0,6.0,3.2
+Males,some college,19,3.2,4.2,3.0
+Females,HS,32,4.6,2.8,3.8
+Females,graduate degree,48,5.5,2.0,6.0
+Females,graduate degree,40,3.0,3.8,3.6
+Females,graduate degree,28,5.8,3.6,3.6
+Females,some college,33,5.6,2.8,4.2
+Females,some college,23,5.2,3.4,4.4
+Males,college graduate,22,4.4,3.6,3.0
+Females,some college,40,3.6,5.0,2.6
+Males,some college,35,4.0,4.6,3.0
+Females,NA,47,5.0,4.8,4.4
+Females,HS,44,4.8,2.8,5.6
+Females,some college,20,2.8,6.0,3.4
+Males,graduate degree,23,5.8,4.4,4.6
+Females,some college,21,4.8,3.4,3.6
+Males,some college,52,5.8,1.8,5.4
+Females,some college,21,4.8,2.8,4.6
+Females,some college,22,5.6,3.0,5.6
+Females,college graduate,24,4.2,1.4,3.2
+Males,some college,24,5.0,3.4,4.0
+Males,some college,20,3.2,4.4,3.6
+Females,college graduate,24,4.8,1.0,3.4
+Females,some college,28,5.6,1.8,5.6
+Females,some college,34,4.25,4.2,4.5
+Males,college graduate,22,4.8,2.8,5.2
+Females,some college,33,6.0,2.0,5.2
+Females,some college,50,5.2,1.0,4.2
+Females,some college,20,6.0,3.8,5.4
+Females,college graduate,21,6.0,4.2,4.8
+Males,graduate degree,24,5.8,3.4,5.8
+Males,graduate degree,23,4.2,4.2,4.6
+Females,some college,22,5.5,3.8,3.0
+Females,college graduate,40,4.4,2.0,3.8
+Females,graduate degree,28,5.6,2.0,4.2
+Females,Finished HS,30,4.0,6.0,5.4
+Males,HS,39,5.2,2.6,5.8
+Males,some college,36,4.6,2.8,4.0
+Males,some college,27,4.4,2.6,5.6
+Females,some college,46,5.0,3.2,5.0
+Females,some college,57,4.6,3.0,6.0
+Males,some college,30,4.0,2.8,3.8
+Males,some college,38,5.0,3.6,5.4
+Females,some college,41,5.4,1.8,4.2
+Females,some college,27,5.6,4.0,6.0
+Females,some college,29,6.0,3.6,5.2
+Females,some college,51,5.6,4.0,4.8
+Females,some college,40,5.4,1.0,5.2
+Females,Finished HS,49,5.6,4.0,4.6
+Males,graduate degree,25,3.6,2.6,4.2
+Females,some college,33,5.8,2.8,4.0
+Males,some college,36,5.4,3.8,5.0
+Females,some college,41,4.6,3.4,2.2
+Females,graduate degree,51,5.0,3.2,5.0
+Females,some college,35,4.6,2.2,3.0
+Females,Finished HS,25,4.8,2.2,6.0
+Females,Finished HS,23,5.2,3.0,5.2
+Females,some college,29,3.8,5.8,3.0
+Females,some college,32,5.0,4.6,5.0
+Males,some college,26,3.6,4.4,3.6
+Females,some college,26,5.0,1.0,4.4
+Females,some college,27,5.2,2.6,4.8
+Females,college graduate,24,5.0,2.2,3.6
+Females,some college,43,5.6,3.8,4.0
+Females,some college,41,5.8,2.8,4.8
+Females,some college,31,5.0,5.4,3.6
+Males,some college,39,4.2,3.4,5.0
+Females,some college,40,5.6,3.2,3.4
+Females,some college,26,4.8,2.2,3.2
+Females,some college,40,3.8,1.0,5.0
+Females,Finished HS,26,5.2,1.8,4.2
+Females,HS,18,5.6,5.0,4.6
+Females,some college,23,4.6,5.8,4.2
+Females,some college,27,4.6,4.2,6.0
+Females,some college,53,5.6,1.6,4.0
+Females,some college,21,4.4,5.0,1.6
+Females,some college,30,5.4,3.4,5.6
+Males,Finished HS,31,5.2,2.2,3.8
+Males,some college,26,4.8,2.2,5.8
+Females,some college,21,4.4,4.0,4.0
+Males,HS,42,5.666666666666667,1.4,3.8
+Females,some college,27,5.2,3.0,3.6
+Males,some college,27,4.4,3.4,4.8
+Females,some college,34,5.6,1.8,5.8
+Females,some college,34,5.4,3.4,4.6
+Females,some college,22,4.6,3.8,4.2
+Males,some college,27,5.6,1.2,5.6
+Females,Finished HS,33,6.0,5.6,4.8
+Females,graduate degree,23,5.4,3.8,5.2
+Females,some college,27,5.75,6.0,4.0
+Females,some college,23,4.0,6.0,1.8
+Females,some college,35,4.4,1.6,3.8
+Females,Finished HS,28,4.6,3.75,3.6
+Females,Finished HS,28,4.6,3.2,3.6
+Females,some college,29,6.0,3.6,4.6
+Females,college graduate,28,4.0,2.75,3.8
+Females,college graduate,28,4.0,2.4,3.8
+Females,college graduate,53,5.8,1.6,3.8
+Females,some college,47,4.2,3.4,5.0
+Females,some college,31,5.4,3.4,4.4
+Females,HS,22,5.6,3.8,5.0
+Males,college graduate,45,4.6,3.0,2.8
+Females,some college,29,4.2,4.6,4.75
+Females,some college,48,6.0,3.4,6.0
+Males,college graduate,39,4.8,2.8,3.4
+Females,some college,33,5.2,1.2,6.0
+Males,some college,28,4.8,2.4,5.6
+Females,some college,20,5.4,2.8,3.0
+Females,Finished HS,34,5.4,1.2,5.2
+Females,college graduate,25,5.6,1.8,2.8
+Females,some college,41,5.8,2.6,4.2
+Females,graduate degree,26,4.6,2.8,3.75
+Females,some college,36,4.8,2.0,3.4
+Females,some college,34,5.2,2.0,4.8
+Males,some college,19,2.0,1.0,3.0
+Females,graduate degree,31,5.8,3.6,5.0
+Females,graduate degree,29,5.4,4.0,3.2
+Males,some college,35,3.6,3.4,2.2
+Females,graduate degree,20,5.0,3.8,3.6
+Males,some college,35,3.4,4.6,3.0
+Males,graduate degree,20,5.4,2.6,4.2
+Females,Finished HS,23,5.0,3.8,2.4
+Females,some college,28,5.2,2.0,4.4
+Males,graduate degree,28,4.6,2.4,4.8
+Males,Finished HS,47,3.8,1.6,1.6
+Females,graduate degree,20,4.4,3.2,2.0
+Females,some college,16,3.6,4.0,2.4
+Females,some college,25,5.8,2.0,5.4
+Females,some college,27,4.4,3.5,5.2
+Females,some college,50,5.8,1.4,5.0
+Males,some college,38,5.2,1.6,5.8
+Females,some college,36,5.6,3.8,5.0
+Males,college graduate,55,4.6,1.2,6.0
+Females,some college,19,5.6,4.0,4.6
+Females,Finished HS,41,5.4,3.6,5.2
+Females,HS,29,3.4,4.4,4.5
+Females,some college,26,4.4,4.2,3.6
+Females,some college,40,5.0,4.2,4.4
+Males,some college,40,3.8,3.6,6.0
+Females,Finished HS,52,4.8,1.8,4.6
+Males,some college,35,4.4,2.6,4.8
+Females,some college,22,5.75,2.4,5.8
+Females,graduate degree,33,4.8,3.2,6.0
+Males,HS,46,4.0,3.4,2.6
+Females,NA,16,4.6,3.0,4.4
+Females,graduate degree,31,4.4,2.8,4.0
+Females,some college,30,5.4,4.4,5.0
+Females,some college,37,6.0,2.6,4.8
+Females,college graduate,48,4.4,4.0,2.6
+Females,some college,30,6.0,1.8,5.2
+Females,HS,17,4.2,4.2,4.0
+Females,some college,31,4.0,3.8,5.2
+Females,some college,20,5.0,2.0,5.2
+Females,some college,32,6.0,5.4,3.0
+Females,some college,18,5.4,3.6,3.8
+Females,some college,27,4.8,3.0,3.8
+Males,some college,23,5.6,3.2,1.4
+Females,some college,36,4.4,4.2,3.4
+Males,graduate degree,21,2.6,4.8,3.8
+Females,some college,19,6.0,3.0,5.4
+Females,HS,34,5.2,4.75,4.2
+Females,graduate degree,50,6.0,1.8,5.6
+Males,some college,20,2.6,4.8,4.0
+Females,Finished HS,35,4.6,6.0,4.0
+Males,some college,21,4.6,4.4,3.4
+Females,NA,17,5.4,4.2,3.8
+Females,some college,20,3.0,4.6,3.0
+Females,Finished HS,42,5.8,1.8,4.8
+Females,graduate degree,24,6.0,2.6,5.6
+Females,graduate degree,52,4.2,2.2,3.2
+Males,Finished HS,58,6.0,4.8,4.2
+Females,NA,12,6.0,1.2,6.0
+Females,graduate degree,32,5.4,4.8,4.2
+Females,graduate degree,50,5.2,3.0,4.6
+Females,NA,17,4.4,4.8,3.8
+Females,graduate degree,35,5.4,5.2,6.0
+Males,some college,28,6.0,4.8,4.8
+Females,some college,25,5.8,2.0,5.6
+Males,graduate degree,31,4.4,4.0,4.6
+Males,some college,22,5.4,2.0,5.0
+Males,graduate degree,33,4.2,1.8,4.8
+Females,college graduate,33,4.4,4.4,3.8
+Males,some college,58,3.6,1.8,1.6
+Males,graduate degree,26,2.6,2.8,3.6
+Females,HS,26,5.8,2.8,4.0
+Females,some college,30,4.6,3.4,3.8
+Females,Finished HS,26,5.4,5.4,4.0
+Females,graduate degree,24,5.8,1.8,4.0
+Males,some college,51,4.8,3.8,5.6
+Females,some college,18,5.2,4.0,3.8
+Females,college graduate,34,5.4,2.8,5.2
+Females,some college,20,5.4,1.6,4.4
+Females,graduate degree,30,5.6,2.8,4.8
+Males,HS,21,5.2,2.4,6.0
+Males,HS,21,4.4,3.2,5.8
+Males,graduate degree,23,4.0,4.2,3.2
+Males,graduate degree,23,4.2,3.4,4.0
+Females,some college,21,3.8,2.0,5.4
+Females,some college,20,5.8,1.8,4.0
+Females,Finished HS,23,4.8,3.6,3.8
+Males,graduate degree,37,5.0,3.0,4.6
+Females,some college,31,5.4,2.8,5.0
+Females,some college,28,4.8,4.4,5.4
+Females,some college,22,5.0,1.2,5.0
+Females,some college,18,4.2,2.8,2.8
+Females,Finished HS,53,5.0,1.6,3.2
+Females,some college,21,5.6,2.8,5.0
+Females,some college,25,5.4,3.2,5.2
+Females,some college,36,5.4,2.4,3.6
+Females,some college,25,6.0,3.0,3.6
+Females,HS,18,4.0,4.8,2.6
+Males,college graduate,38,2.8,2.8,2.8
+Females,NA,61,5.4,3.6,2.4
+Males,Finished HS,48,5.2,3.0,4.2
+Females,some college,20,6.0,3.4,3.8
+Males,graduate degree,29,4.2,1.8,3.6
+Females,some college,19,5.0,2.4,4.8
+Females,some college,20,4.6,4.2,4.2
+Females,some college,21,3.4,3.4,4.6
+Females,some college,19,5.6,1.75,4.6
+Males,some college,31,4.8,4.0,3.8
+Males,graduate degree,26,4.4,2.2,3.2
+Males,some college,34,5.0,3.0,4.2
+Females,some college,19,4.8,1.8,2.8
+Females,some college,19,5.8,1.6,5.2
+Females,some college,20,5.8,2.0,4.2
+Males,Finished HS,34,4.8,3.4,3.6
+Females,some college,20,5.4,2.8,4.6
+Females,Finished HS,28,5.6,4.4,4.2
+Males,Finished HS,27,4.8,3.8,3.2
+Males,graduate degree,36,3.4,4.0,3.0
+Females,HS,19,3.0,1.0,3.0
+Males,college graduate,26,4.6,1.4,4.2
+Females,Finished HS,42,3.0,5.4,1.6
+Males,graduate degree,32,5.0,2.6,4.75
+Females,some college,31,6.0,1.8,5.2
+Males,some college,20,5.0,1.8,4.6
+Males,some college,19,4.8,4.0,2.8
+Females,some college,19,5.6,1.4,3.6
+Males,college graduate,24,4.0,3.8,2.8
+Females,some college,19,4.4,2.0,1.8
+Females,some college,22,5.2,4.0,3.2
+Females,graduate degree,40,4.4,4.2,4.4
+Females,some college,24,4.8,3.0,3.8
+Females,some college,20,5.4,2.2,4.0
+Females,college graduate,31,4.4,3.2,2.8
+Females,some college,18,5.8,3.4,4.4
+Females,some college,26,5.25,2.75,5.0
+Females,some college,25,5.4,2.0,4.2
+Females,some college,19,5.0,3.6,4.8
+Females,some college,20,4.6,1.8,1.8
+Females,some college,20,5.8,1.4,5.2
+Females,some college,20,4.6,3.0,3.8
+Females,some college,34,5.8,4.0,5.4
+Females,HS,16,5.2,3.6,5.4
+Females,some college,20,5.0,3.8,5.0
+Females,college graduate,24,4.6,3.4,3.2
+Females,some college,20,4.8,3.4,3.0
+Females,some college,19,5.8,2.0,4.6
+Males,some college,20,4.0,3.0,4.6
+Females,some college,27,5.4,5.4,2.4
+Females,some college,21,3.8,5.8,4.4
+Males,graduate degree,28,4.2,3.4,3.8
+Females,college graduate,43,5.8,1.0,5.8
+Males,some college,19,5.4,1.4,4.4
+Females,college graduate,44,4.0,1.8,4.0
+Males,NA,14,5.6,2.6,3.2
+Females,some college,18,5.8,2.4,4.0
+Females,college graduate,56,5.0,3.0,3.8
+Females,Finished HS,20,4.8,2.2,4.6
+Females,some college,19,5.6,1.8,5.2
+Males,graduate degree,51,4.0,4.8,2.8
+Females,some college,25,5.2,2.2,4.2
+Females,some college,20,5.0,2.4,3.6
+Females,some college,19,5.2,1.6,5.4
+Females,NA,17,3.4,1.4,3.0
+Females,some college,20,5.4,4.6,3.4
+Females,college graduate,24,5.2,3.2,3.4
+Females,some college,20,4.4,3.6,4.6
+Males,graduate degree,58,5.4,2.4,4.6
+Females,some college,34,5.0,2.2,3.0
+Females,some college,20,5.0,2.2,4.8
+Males,some college,28,3.2,3.8,3.0
+Females,graduate degree,25,5.6,2.8,5.0
+Females,some college,30,4.4,5.0,3.8
+Females,some college,49,5.8,2.0,5.2
+Females,graduate degree,26,5.6,3.0,3.6
+Females,some college,26,4.6,4.2,4.0
+Females,some college,48,6.0,2.2,2.0
+Males,NA,17,4.2,2.8,2.6
+Females,some college,22,5.6,2.8,5.4
+Females,graduate degree,45,6.0,1.0,5.0
+Females,some college,17,5.0,1.6,4.4
+Females,some college,17,5.0,1.6,4.4
+Females,some college,17,5.0,1.6,4.4
+Females,some college,17,5.0,1.6,4.4
+Males,Finished HS,22,5.2,3.8,4.0
+Males,Finished HS,30,4.6,3.2,4.2
+Males,some college,19,2.4,1.4,1.8
+Females,college graduate,34,3.8,2.8,4.6
+Males,Finished HS,52,4.0,3.0,4.4
+Females,some college,19,4.2,3.6,4.4
+Females,some college,31,5.0,3.8,4.75
+Males,some college,21,4.6,3.8,4.0
+Males,some college,22,4.8,3.8,4.8
+Females,some college,21,3.4,3.2,2.2
+Females,some college,19,3.6,4.8,2.0
+Females,graduate degree,30,5.2,3.2,3.6
+Females,college graduate,32,5.4,3.4,5.8
+Females,some college,25,4.8,1.6,4.6
+Females,some college,18,5.4,1.8,5.0
+Females,graduate degree,33,4.8,2.2,5.8
+Males,college graduate,30,3.4,4.2,2.4
+Females,college graduate,47,4.0,3.2,1.5
+Females,college graduate,27,4.8,3.8,5.6
+Females,some college,39,4.2,3.4,3.8
+Females,some college,21,5.2,2.8,4.0
+Females,some college,20,4.4,3.0,4.2
+Females,some college,20,4.6,2.8,3.6
+Females,college graduate,31,5.6,2.4,3.6
+Males,some college,18,4.4,2.0,4.8
+Females,some college,29,6.0,3.8,5.0
+Females,NA,16,5.6,2.4,3.6
+Females,Finished HS,20,5.0,2.0,5.2
+Females,some college,21,5.4,1.2,3.8
+Females,some college,20,5.4,3.0,3.8
+Females,college graduate,33,3.8,1.4,3.8
+Females,some college,19,4.8,2.2,5.4
+Females,some college,20,3.0,3.8,4.8
+Females,graduate degree,51,4.4,2.0,4.6
+Females,some college,30,5.8,1.0,5.0
+Males,some college,20,4.4,2.8,3.4
+Males,HS,22,5.2,2.2,2.2
+Males,HS,18,5.0,4.4,3.0
+Males,Finished HS,34,5.8,1.8,5.6
+Males,HS,23,4.8,2.8,4.8
+Females,some college,23,5.0,4.4,3.8
+Males,Finished HS,29,4.2,4.0,3.4
+Females,some college,21,5.2,4.2,3.4
+Females,college graduate,24,5.6,1.6,4.6
+Females,some college,50,6.0,1.0,5.0
+Females,some college,24,4.6,1.0,4.8
+Females,some college,42,5.8,2.2,3.4
+Females,HS,25,3.0,2.8,3.2
+Females,Finished HS,26,4.0,4.8,3.8
+Females,some college,19,5.2,3.2,3.8
+Females,some college,39,5.0,2.6,3.6
+Females,HS,18,4.2,4.4,5.0
+Females,graduate degree,42,6.0,2.8,5.4
+Females,graduate degree,40,5.0,2.4,2.4
+Females,HS,20,4.2,2.8,3.4
+Females,some college,57,5.4,2.6,4.0
+Males,some college,19,2.8,3.2,2.8
+Females,some college,26,3.6,3.8,2.0
+Females,some college,22,5.4,2.2,3.8
+Females,some college,19,5.6,2.2,4.4
+Females,Finished HS,29,3.8,5.8,4.4
+Males,some college,21,4.4,2.4,5.6
+Males,some college,18,3.4,1.4,3.2
+Females,some college,63,6.0,1.0,5.8
+Females,college graduate,25,5.4,3.2,3.2
+Females,college graduate,25,5.4,2.0,5.8
+Males,some college,23,5.25,1.8,5.4
+Females,NA,17,4.4,2.2,1.8
+Females,college graduate,48,4.6,5.0,3.4
+Males,some college,20,4.6,2.4,5.2
+Females,some college,19,4.8,3.2,5.4
+Females,some college,37,4.2,4.6,4.0
+Females,some college,20,5.2,2.2,4.6
+Males,some college,20,4.4,1.8,5.0
+Females,some college,33,5.0,2.8,5.2
+Females,some college,20,3.8,2.2,4.4
+Males,some college,18,4.0,3.6,4.2
+Females,HS,18,5.0,3.2,2.6
+Females,some college,20,5.0,2.8,4.0
+Females,college graduate,36,4.2,3.0,3.75
+Females,some college,23,6.0,1.2,4.4
+Males,some college,25,3.6,4.4,3.4
+Males,NA,17,2.5,5.0,4.5
+Females,some college,48,5.6,1.4,5.6
+Females,HS,44,5.2,3.0,4.0
+Females,HS,46,4.4,3.0,4.0
+Males,some college,19,4.8,3.8,1.8
+Females,some college,23,5.2,2.8,4.4
+Males,some college,23,2.0,1.0,1.0
+Males,Finished HS,20,4.25,2.4,2.5
+Males,college graduate,56,6.0,4.4,5.0
+Females,graduate degree,28,3.4,4.4,5.0
+Females,HS,17,4.2,5.4,5.6
+Males,college graduate,22,3.2,4.4,2.6
+Females,graduate degree,25,4.0,4.4,4.8
+Females,college graduate,44,5.0,1.4,5.6
+Males,some college,36,3.8,3.6,4.2
+Males,college graduate,36,4.2,1.2,3.2
+Males,some college,26,3.2,4.8,3.8
+Females,some college,27,5.0,4.6,6.0
+Males,college graduate,27,5.4,5.4,4.2
+Females,some college,24,4.4,4.6,3.2
+Females,graduate degree,33,3.6,5.6,1.2
+Females,some college,19,4.8,3.2,3.2
+Females,some college,45,5.8,2.75,4.2
+Males,some college,23,4.75,3.6,3.2
+Females,some college,22,4.0,4.0,3.6
+Males,college graduate,35,5.4,2.8,3.6
+Females,some college,20,5.8,2.2,5.4
+Males,some college,42,3.8,3.6,3.0
+Females,college graduate,34,5.8,3.2,4.6
+Females,HS,24,4.4,3.4,5.0
+Males,some college,29,4.2,2.0,3.8
+Females,some college,21,5.4,2.8,4.4
+Females,graduate degree,27,3.8,3.6,2.8
+Females,Finished HS,22,3.4,4.8,3.4
+Females,college graduate,28,4.6,4.0,3.2
+Males,graduate degree,41,4.8,2.2,5.0
+Females,graduate degree,48,5.0,3.2,4.6
+Males,some college,31,3.8,2.6,3.4
+Males,college graduate,52,5.2,5.2,3.2
+Females,HS,41,6.0,6.0,2.0
+Females,college graduate,22,4.4,3.8,5.4
+Males,college graduate,48,3.8,2.6,4.4
+Females,college graduate,30,5.2,2.0,5.4
+Males,graduate degree,39,3.4,5.25,2.6
+Males,some college,37,4.0,3.6,4.0
+Females,NA,16,2.0,1.8,3.4
+Females,Finished HS,17,4.6,5.2,3.6
+Females,college graduate,37,5.0,3.4,2.8
+Females,graduate degree,61,6.0,1.6,5.0
+Females,HS,14,5.8,4.6,3.2
+Males,some college,20,5.4,1.6,4.4
+Males,college graduate,32,3.4,3.6,4.6
+Females,college graduate,22,4.2,3.4,4.6
+Males,some college,20,3.8,3.6,2.8
+Females,graduate degree,33,5.8,1.6,5.8
+Females,some college,23,3.4,2.8,5.4
+Males,some college,21,5.4,1.0,5.8
+Males,some college,43,4.8,3.2,3.4
+Females,HS,47,4.8,3.2,2.6
+Females,some college,39,4.2,2.5,3.8
+Females,some college,26,5.2,2.0,4.2
+Males,some college,23,5.0,3.6,4.2
+Females,college graduate,23,4.8,4.2,4.8
+Females,graduate degree,21,4.8,2.4,5.2
+Females,graduate degree,47,5.2,2.2,5.2
+Females,some college,18,5.25,3.2,3.6
+Males,Finished HS,20,4.2,3.6,4.6
+Females,some college,20,4.0,3.2,4.8
+Females,some college,44,5.4,4.2,5.4
+Females,some college,20,3.2,3.8,4.8
+Females,some college,29,5.0,4.0,5.0
+Females,some college,20,5.2,3.6,3.8
+Females,graduate degree,54,5.6,3.2,4.6
+Females,some college,34,4.0,3.6,4.4
+Males,some college,28,3.2,3.2,4.6
+Females,Finished HS,17,5.0,3.8,6.0
+Females,HS,20,5.4,1.6,5.4
+Females,NA,17,3.4,5.8,2.2
+Females,college graduate,24,5.8,4.0,5.0
+Males,some college,20,5.2,2.0,6.0
+Females,HS,20,4.4,4.0,3.6
+Females,some college,19,4.2,3.4,5.2
+Females,college graduate,34,6.0,3.2,3.6
+Females,graduate degree,44,4.2,4.8,3.8
+Females,graduate degree,32,2.8,2.0,4.4
+Females,graduate degree,38,3.6,4.2,3.6
+Males,graduate degree,26,3.2,4.8,3.0
+Females,graduate degree,37,4.8,4.2,4.25
+Females,some college,30,5.4,2.8,5.0
+Females,Finished HS,39,6.0,3.6,4.0
+Females,graduate degree,25,5.2,3.0,3.6
+Females,some college,19,5.4,4.2,6.0
+Females,NA,16,4.6,3.6,2.6
+Females,college graduate,29,4.2,2.6,6.0
+Females,some college,20,5.6,2.4,5.0
+Males,graduate degree,23,4.0,4.2,3.2
+Females,some college,19,4.6,2.8,4.2
+Females,college graduate,39,4.2,2.2,4.2
+Males,Finished HS,36,6.0,1.6,6.0
+Females,college graduate,46,5.6,3.0,3.6
+Males,some college,20,4.6,3.4,5.4
+Males,some college,21,4.8,2.0,3.0
+Females,some college,20,5.0,4.4,3.0
+Females,some college,18,5.6,3.2,4.6
+Females,graduate degree,47,4.6,4.8,2.6
+Females,some college,19,3.6,3.6,4.8
+Females,some college,38,6.0,2.2,4.6
+Females,some college,28,5.0,2.6,4.0
+Females,Finished HS,23,4.25,3.2,4.2
+Females,some college,20,4.0,4.6,3.6
+Females,graduate degree,35,4.2,2.2,2.4
+Females,college graduate,43,5.2,3.2,5.2
+Males,some college,20,5.4,3.2,5.2
+Females,graduate degree,35,3.8,1.8,2.6
+Males,college graduate,21,5.0,3.8,5.5
+Males,NA,30,4.4,3.4,4.0
+Females,some college,30,4.4,4.8,2.8
+Males,some college,34,3.4,3.0,3.4
+Females,Finished HS,47,5.8,1.6,4.0
+Males,graduate degree,58,5.4,3.4,4.0
+Males,some college,29,5.8,1.0,5.8
+Females,some college,47,5.8,1.8,3.6
+Females,some college,20,4.8,5.8,5.4
+Females,HS,21,5.0,4.4,5.6
+Males,HS,20,4.8,1.4,3.4
+Males,some college,40,5.2,1.4,3.0
+Females,NA,17,5.2,3.6,4.4
+Males,some college,23,6.0,3.2,6.0
+Females,graduate degree,32,5.4,1.8,5.4
+Females,HS,18,6.0,3.4,4.2
+Males,some college,22,4.8,1.8,3.8
+Females,some college,25,5.8,2.8,5.8
+Males,graduate degree,26,4.4,1.4,2.6
+Females,some college,29,5.6,2.0,4.4
+Females,some college,24,5.0,1.4,5.0
+Females,some college,46,5.8,2.6,5.6
+Females,graduate degree,56,5.4,1.4,3.2
+Females,Finished HS,39,4.8,1.4,3.8
+Males,graduate degree,39,4.4,2.4,4.6
+Females,HS,42,4.2,3.6,3.2
+Males,graduate degree,32,5.0,4.4,5.8
+Females,college graduate,42,5.4,4.0,5.4
+Females,some college,19,4.2,3.0,3.8
+Females,graduate degree,62,4.4,2.6,2.4
+Females,college graduate,36,5.0,4.0,1.6
+Males,HS,18,5.8,3.2,2.6
+Females,graduate degree,31,4.8,4.4,5.4
+Males,some college,24,4.8,2.0,4.6
+Females,HS,20,5.0,2.8,4.2
+Males,college graduate,30,4.0,3.6,4.2
+Females,graduate degree,23,4.8,3.2,6.0
+Females,Finished HS,23,4.6,2.8,4.6
+Females,some college,18,5.8,3.6,5.6
+Females,graduate degree,27,3.8,3.0,3.0
+Females,college graduate,24,5.4,2.6,4.8
+Females,some college,19,5.4,3.8,4.0
+Females,some college,39,5.8,5.0,4.8
+Males,college graduate,51,3.2,2.8,2.5
+Females,NA,16,4.6,4.6,4.2
+Males,NA,16,4.8,1.4,4.0
+Females,some college,19,5.0,3.8,2.4
+Males,HS,17,4.0,2.4,3.8
+Females,graduate degree,28,4.8,3.0,4.2
+Females,college graduate,36,2.8,3.6,3.0
+Females,college graduate,31,4.8,2.4,3.8
+Males,some college,36,5.2,5.6,4.4
+Males,graduate degree,31,4.4,4.2,5.0
+Females,college graduate,19,5.0,2.8,5.8
+Males,college graduate,35,6.0,1.0,6.0
+Males,some college,19,2.4,5.8,2.4
+Females,HS,17,5.8,1.8,5.0
+Females,some college,19,5.0,4.2,4.2
+Females,NA,15,3.0,1.25,4.0
+Females,HS,18,2.8,4.8,4.0
+Females,HS,14,4.8,5.2,2.6
+Females,NA,14,2.0,4.6,3.4
+Females,graduate degree,28,3.0,4.8,4.75
+Females,some college,20,4.0,4.0,2.4
+Females,some college,20,4.0,4.2,3.4
+Males,Finished HS,21,4.0,1.6,4.0
+Males,college graduate,30,2.4,2.4,1.8
+Males,college graduate,27,3.0,3.0,2.8
+Females,graduate degree,37,5.4,2.8,4.0
+Males,college graduate,31,3.4,5.8,2.8
+Females,college graduate,32,4.8,3.8,3.6
+Males,HS,19,5.2,2.0,5.2
+Males,some college,42,4.2,3.8,4.4
+Males,some college,20,4.6,2.0,4.6
+Females,college graduate,24,5.8,4.2,4.6
+Females,graduate degree,27,6.0,1.4,3.2
+Males,some college,21,5.0,2.4,2.6
+Females,some college,36,5.2,2.0,4.2
+Males,Finished HS,48,1.8,2.4,1.4
+Males,some college,21,4.4,2.2,3.6
+Females,Finished HS,31,3.8,3.6,3.4
+Females,college graduate,22,5.4,2.6,5.2
+Females,some college,23,4.2,3.6,4.6
+Females,graduate degree,23,4.6,4.0,3.8
+Males,college graduate,30,4.6,4.0,3.6
+Females,graduate degree,35,5.2,2.8,4.4
+Females,some college,21,4.4,3.0,5.8
+Females,some college,22,4.6,4.6,5.0
+Males,graduate degree,28,5.0,3.0,2.8
+Females,some college,20,4.8,3.6,4.2
+Females,college graduate,51,3.8,1.4,4.2
+Females,Finished HS,19,3.4,4.8,4.4
+Females,college graduate,24,3.8,2.8,4.6
+Females,graduate degree,45,5.6,2.4,5.0
+Females,HS,21,4.6,1.0,3.5
+Males,some college,26,4.6,1.6,4.0
+Males,Finished HS,22,3.6,3.2,4.2
+Females,college graduate,50,4.4,4.0,2.4
+Females,graduate degree,36,5.4,3.0,4.8
+Males,college graduate,50,3.8,5.4,1.2
+Males,Finished HS,22,5.2,4.6,3.6
+Females,college graduate,23,2.0,2.6,1.4
+Females,HS,15,5.0,2.4,4.0
+Females,NA,15,3.8,5.4,1.2
+Males,some college,21,2.6,3.0,1.6
+Females,some college,23,4.6,4.4,4.0
+Females,graduate degree,35,5.6,1.0,4.8
+Females,graduate degree,33,5.0,1.6,4.0
+Females,NA,27,4.8,4.4,2.8
+Males,Finished HS,29,5.6,1.0,6.0
+Males,some college,21,4.6,2.8,4.4
+Males,some college,31,4.8,4.2,2.6
+Males,some college,21,4.2,2.4,5.4
+Males,graduate degree,26,2.4,2.2,3.4
+Females,some college,20,6.0,3.6,5.4
+Females,graduate degree,56,4.4,3.8,4.6
+Males,graduate degree,3,4.8,3.8,4.4
+Males,Finished HS,65,3.6,4.4,4.0
+Females,some college,34,4.0,3.6,4.2
+Females,college graduate,29,5.0,3.6,3.2
+Females,college graduate,21,4.2,5.0,4.4
+Females,Finished HS,32,4.75,3.8,5.4
+Males,Finished HS,26,4.8,3.5,4.8
+Males,college graduate,27,2.6,3.0,2.2
+Females,college graduate,45,5.6,2.0,5.2
+Males,NA,17,4.0,2.8,2.6
+Females,some college,20,5.0,3.8,4.6
+Females,Finished HS,20,5.2,2.4,4.8
+Males,college graduate,43,4.6,2.6,1.2
+Females,graduate degree,26,5.0,2.4,4.2
+Males,college graduate,55,5.2,1.2,4.0
+Females,graduate degree,38,6.0,3.0,5.2
+Females,college graduate,32,4.2,5.0,3.6
+Females,HS,19,4.6,4.4,2.8
+Males,some college,22,5.2,3.0,5.2
+Females,some college,21,4.8,1.8,4.2
+Females,graduate degree,40,5.8,3.8,5.6
+Females,college graduate,19,4.4,2.4,4.6
+Males,some college,23,4.0,3.4,3.8
+Males,HS,18,5.0,6.0,4.6
+Males,some college,32,5.0,1.6,4.6
+Males,HS,49,5.2,2.6,3.8
+Females,some college,42,5.6,1.2,5.6
+Females,NA,31,5.6,3.4,4.2
+Females,some college,23,4.6,4.8,5.0
+Females,graduate degree,30,5.4,3.0,3.0
+Females,HS,24,4.2,3.2,4.4
+Males,graduate degree,26,2.8,2.2,2.0
+Males,some college,21,4.8,2.0,4.8
+Females,some college,21,3.8,3.0,4.75
+Males,graduate degree,23,5.4,2.0,4.0
+Females,Finished HS,61,6.0,1.0,5.4
+Males,NA,15,4.0,2.8,4.8
+Males,college graduate,28,5.4,3.0,5.6
+Males,some college,25,2.6,3.8,2.6
+Males,graduate degree,34,5.4,2.2,5.4
+Females,Finished HS,21,4.0,3.6,3.4
+Males,NA,41,4.0,4.6,4.6
+Females,graduate degree,23,2.8,3.4,3.2
+Males,NA,52,4.8,3.0,4.25
+Males,some college,20,5.0,1.8,2.4
+Females,some college,19,4.2,1.4,2.8
+Females,some college,36,5.2,1.0,5.4
+Females,some college,18,5.6,1.4,5.0
+Females,some college,19,4.6,2.0,2.2
+Females,some college,22,4.2,4.8,4.8
+Females,some college,19,5.8,2.2,4.6
+Females,some college,24,4.0,3.0,4.8
+Females,graduate degree,24,4.0,1.25,4.0
+Females,some college,18,5.6,4.4,5.2
+Males,some college,22,5.0,3.6,5.4
+Males,Finished HS,27,5.4,5.2,4.0
+Males,NA,12,3.8,4.2,3.0
+Males,NA,13,3.6,2.8,4.0
+Males,NA,12,4.6,1.8,4.4
+Males,NA,12,4.6,1.8,5.0
+Females,NA,11,5.8,3.0,5.2
+Females,NA,12,3.0,4.6,5.2
+Males,NA,12,3.4,3.4,4.0
+Females,NA,12,4.4,3.4,3.0
+Females,NA,12,4.8,2.4,3.4
+Females,NA,12,3.6,5.4,5.4
+Females,NA,12,4.0,2.4,3.0
+Females,NA,14,4.6,4.4,4.0
+Males,some college,20,4.4,2.4,4.6
+Males,some college,23,1.8,4.6,4.2
+Females,some college,28,2.75,5.0,5.4
+Males,some college,20,4.2,3.4,4.4
+Males,NA,17,3.2,3.8,3.0
+Females,NA,16,2.8,5.4,1.8
+Females,NA,16,4.6,4.6,4.2
+Females,NA,17,2.2,5.6,1.6
+Males,NA,18,3.4,3.0,4.2
+Males,NA,17,4.0,5.25,5.0
+Females,NA,17,4.2,4.2,3.5
+Females,NA,12,4.2,4.0,3.2
+Males,NA,12,1.8,3.0,5.2
+Females,NA,12,3.4,3.8,4.0
+Males,NA,12,5.0,3.2,5.2
+Males,NA,12,4.0,4.0,3.8
+Males,NA,12,2.6,1.8,5.0
+Males,NA,13,4.0,3.6,2.5
+Females,college graduate,24,5.0,3.6,4.4
+Males,graduate degree,22,6.0,1.6,5.4
+Females,HS,19,3.6,3.2,1.6
+Males,some college,44,4.4,5.0,3.4
+Males,graduate degree,29,3.4,2.6,2.2
+Females,college graduate,23,4.6,4.6,3.4
+Males,some college,25,3.4,2.2,3.8
+Females,some college,57,4.8,1.4,5.0
+Females,some college,19,4.8,3.2,3.2
+Females,college graduate,26,4.8,4.0,4.4
+Females,some college,19,3.2,2.6,3.2
+Males,college graduate,34,2.8,1.8,2.0
+Females,some college,19,4.8,2.8,2.8
+Males,some college,38,3.4,2.2,4.6
+Females,some college,20,4.8,3.2,5.0
+Males,Finished HS,22,4.6,2.6,4.8
+Females,some college,25,4.4,3.6,4.4
+Males,graduate degree,33,4.4,3.2,2.0
+Females,some college,38,5.2,1.2,5.8
+Females,graduate degree,19,5.4,4.6,5.2
+Females,graduate degree,35,5.2,3.8,3.6
+Females,NA,11,4.666666666666667,5.0,5.0
+Males,NA,12,2.4,1.6,3.8
+Males,NA,12,5.0,3.4,4.6
+Males,NA,12,2.8,3.6,3.6
+Females,NA,12,5.6,3.2,3.8
+Males,graduate degree,40,3.8,2.2,3.8
+Females,NA,12,3.6,3.8,4.4
+Females,NA,12,2.6,1.8,4.6
+Females,NA,12,5.2,5.2,4.0
+Females,NA,12,4.6,2.0,4.8
+Females,college graduate,42,5.8,1.4,5.0
+Males,graduate degree,27,5.6,3.2,5.8
+Males,college graduate,31,4.2,2.2,3.4
+Females,some college,24,4.4,1.0,4.4
+Males,graduate degree,44,5.2,4.0,4.0
+Males,Finished HS,37,2.8,5.0,4.2
+Males,Finished HS,33,4.8,1.0,5.2
+Males,some college,26,5.0,2.0,3.0
+Females,some college,33,5.8,3.2,4.8
+Males,some college,26,4.8,3.6,5.2
+Males,college graduate,46,5.4,2.0,5.8
+Females,college graduate,19,6.0,3.2,4.6
+Females,some college,22,5.2,4.6,4.0
+Males,NA,16,4.0,1.8,4.2
+Males,Finished HS,28,2.2,2.4,2.0
+Females,college graduate,29,6.0,5.2,6.0
+Females,graduate degree,31,4.6,4.2,3.6
+Females,some college,18,4.6,4.2,3.8
+Females,some college,29,5.0,4.8,3.0
+Males,Finished HS,20,4.6,3.2,4.0
+Males,Finished HS,22,3.4,3.0,3.6
+Males,graduate degree,45,5.6,2.6,5.4
+Males,HS,19,3.6,2.6,3.4
+Males,some college,39,6.0,1.6,6.0
+Males,some college,21,2.6,3.0,2.4
+Males,graduate degree,46,4.2,4.0,2.4
+Females,NA,17,4.8,3.0,5.8
+Females,college graduate,34,5.4,4.2,6.0
+Females,HS,24,5.0,3.6,4.4
+Females,college graduate,49,3.75,2.6,4.0
+Females,some college,20,5.6,2.2,4.4
+Males,graduate degree,43,5.0,2.2,4.8
+Females,Finished HS,38,5.8,1.6,5.2
+Females,college graduate,51,5.2,1.2,4.6
+Females,Finished HS,20,2.8,4.0,1.2
+Females,college graduate,27,1.6,2.4,1.2
+Females,graduate degree,23,5.0,2.8,3.0
+Males,graduate degree,57,5.25,2.8,5.6
+Females,graduate degree,27,4.2,4.8,3.0
+Males,some college,25,5.2,1.0,5.2
+Males,some college,23,3.4,3.0,2.2
+Females,some college,38,3.4,4.2,2.6
+Females,some college,18,4.2,4.6,4.8
+Males,college graduate,25,5.2,2.6,5.8
+Females,some college,19,4.4,4.0,1.8
+Males,Finished HS,27,6.0,1.0,6.0
+Females,graduate degree,25,4.4,2.4,2.8
+Females,some college,22,5.6,3.2,4.6
+Females,some college,22,4.5,4.333333333333333,5.0
+Females,some college,22,5.0,4.4,4.8
+Females,some college,22,5.0,4.4,4.8
+Females,NA,15,3.4,5.0,2.6
+Females,college graduate,33,5.4,3.5,4.8
+Males,NA,15,4.4,3.0,4.2
+Females,NA,15,4.4,4.0,3.6
+Females,some college,48,5.0,2.6,4.0
+Females,college graduate,28,5.2,1.2,5.2
+Males,some college,20,4.4,3.4,4.4
+Males,Finished HS,54,4.8,1.0,4.2
+Males,some college,22,4.2,2.2,2.8
+Females,HS,23,4.2,4.4,3.4
+Females,NA,16,4.8,4.0,2.4
+Females,Finished HS,32,4.2,5.2,3.6
+Females,college graduate,46,3.8,2.5,1.4
+Females,some college,22,4.8,3.8,4.6
+Females,some college,23,5.2,4.2,2.6
+Females,graduate degree,40,5.2,3.0,5.0
+Females,Finished HS,22,2.2,3.0,3.8
+Females,some college,56,5.6,5.8,4.0
+Males,HS,43,3.8,4.0,3.2
+Males,NA,12,3.0,2.75,6.0
+Males,college graduate,28,4.4,3.4,5.4
+Females,HS,17,5.2,3.6,4.0
+Males,graduate degree,43,3.8,4.0,2.8
+Males,some college,19,4.8,2.6,5.2
+Females,graduate degree,25,4.6,2.6,4.0
+Males,some college,22,4.8,2.0,3.2
+Females,Finished HS,39,4.2,5.4,5.0
+Males,some college,38,2.4,4.4,2.0
+Females,NA,16,4.2,5.4,3.6
+Females,graduate degree,25,4.8,2.0,4.8
+Males,graduate degree,36,2.6,4.0,3.6
+Females,Finished HS,38,4.8,4.6,4.4
+Females,some college,18,3.8,3.8,4.6
+Females,college graduate,47,4.8,2.8,2.8
+Females,HS,40,3.8,2.0,4.4
+Males,some college,21,4.6,1.6,3.8
+Females,NA,16,4.4,2.2,3.8
+Females,some college,25,5.4,4.4,4.2
+Males,HS,17,3.4,1.8,3.8
+Females,some college,41,5.2,3.8,4.8
+Females,college graduate,52,5.2,4.2,6.0
+Males,graduate degree,28,5.8,1.8,3.6
+Females,graduate degree,26,6.0,4.4,5.0
+Males,some college,26,2.6,3.4,1.2
+Females,some college,21,5.8,2.5,4.4
+Males,NA,17,3.8,3.0,2.4
+Females,some college,22,4.8,6.0,4.0
+Males,HS,17,4.0,3.6,3.2
+Males,college graduate,23,5.0,3.2,4.2
+Males,college graduate,35,4.8,2.0,4.8
+Males,some college,29,1.6,2.0,2.6
+Females,college graduate,33,5.0,3.2,4.4
+Males,some college,21,4.8,1.0,2.4
+Females,Finished HS,42,5.0,3.0,3.6
+Females,NA,14,4.4,4.0,2.8
+Females,college graduate,31,4.4,4.2,4.4
+Females,college graduate,37,4.2,4.2,3.4
+Males,Finished HS,43,4.75,3.6,5.0
+Females,college graduate,26,5.0,1.8,4.4
+Females,some college,25,3.8,3.8,2.6
+Females,HS,18,4.0,5.4,1.2
+Males,Finished HS,19,3.4,3.8,4.2
+Males,Finished HS,33,5.0,4.0,3.4
+Females,college graduate,23,5.4,4.4,3.8
+Females,some college,31,4.2,4.8,3.4
+Females,NA,16,4.6,2.2,3.4
+Males,some college,23,4.0,1.4,4.0
+Males,some college,25,4.2,3.4,4.0
+Males,some college,20,5.6,1.0,4.2
+Females,some college,25,4.2,4.2,2.2
+Females,HS,45,4.0,5.2,4.2
+Males,some college,26,5.0,2.2,3.8
+Males,Finished HS,36,6.0,1.0,6.0
+Females,some college,32,6.0,1.4,4.8
+Females,some college,24,3.6,5.0,4.0
+Females,college graduate,30,5.0,2.2,5.0
+Males,college graduate,47,5.0,3.0,1.0
+Females,some college,22,5.4,3.2,5.2
+Females,HS,21,4.666666666666667,4.0,5.5
+Females,HS,21,5.6,4.0,5.4
+Females,graduate degree,40,4.6,2.0,2.6
+Females,some college,24,5.6,4.0,5.8
+Females,some college,47,4.6,3.2,3.2
+Males,Finished HS,29,5.6,2.4,5.2
+Males,graduate degree,28,5.0,2.75,4.4
+Females,graduate degree,33,4.0,3.0,4.8
+Females,some college,23,4.4,3.4,3.0
+Females,some college,22,3.0,4.8,3.4
+Females,some college,22,4.6,4.2,4.6
+Females,college graduate,24,3.0,5.4,2.4
+Males,NA,15,4.0,3.8,4.4
+Males,some college,19,2.2,1.0,5.0
+Males,college graduate,27,4.2,2.75,4.2
+Females,college graduate,29,4.0,2.8,5.0
+Males,college graduate,31,2.8,4.2,4.6
+Females,college graduate,50,3.0,1.4,2.6
