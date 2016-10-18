@@ -77,4 +77,13 @@ apa.cor.table(analytic.data, filename ="Table2.doc")
 
 ###########
 #Make scatter plot
-cor_data <- read_csv("analytic_data.csv")
+plot.men.40 <- qplot(agreeableness,extraversion,data=analytic.data.40)
+plot.men.40 <- plot.men.40 + theme_classic()
+plot.men.40 <- plot.men.40 + theme(axis.line.x = element_line(colour = 'black', size=0.5, linetype='solid'),axis.line.y = element_line(colour = 'black', size=0.5, linetype='solid'))
+print(plot.men.40)
+ggsave("Figure1.pdf",plot=plot.men.40, width=6,height=6)
+
+#### Correlation
+analytic.data.40$agreeableness
+analytic.data.40$extraversion
+cor.test(x=analytic.data.40$agreeableness, y=analytic.data.40$extraversion)
